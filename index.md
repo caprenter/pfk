@@ -1,6 +1,7 @@
 ---
 title: Playing For Kicks
-layout: default
+layout: default-new
+
 ---
 	
 						
