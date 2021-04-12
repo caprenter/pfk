@@ -77,7 +77,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 						<img class="img-circle" src="{{ site.baseurl }}/assets/images/members/mike-2016.png" alt="Mike" />
 					</div>
 					<h3>Mike on Facebook Live</h3>
-					<h4>Feb? 2020</h4>
+					<h4>April 2021</h4>
 					<p>facebook</p>
 				</div>
 			</div>
