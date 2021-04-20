@@ -104,7 +104,8 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**? February 2020** - Mike on Facebook Live  
+**29 April 2021** - Mike on Facebook Live  
+**16 October 2021** - Bradley Woods, Brighouse  
 
 ### Recent Gigs
 **December 2020** - Mike on Facebook Live  
