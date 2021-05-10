@@ -76,9 +76,9 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					<div class="circle-border zoom-in">
 						<img class="img-circle" src="{{ site.baseurl }}/assets/images/members/mike-2016.png" alt="Mike" />
 					</div>
-					<h3>Mike on Facebook Live</h3>
-					<h4>6 May 2021</h4>
-					<p>facebook</p>
+					<h3>Bradley Woods</h3>
+					<h4>16 October 2021</h4>
+					<p>Brighouse</p>
 				</div>
 			</div>
 			<div class="span4">
@@ -86,9 +86,9 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					<div class="circle-border zoom-in">
 						<img class="img-circle" src="{{ site.baseurl }}/assets/images/Band pic16.jpg" alt="The New Inn" />
 					</div>
-					<h3>All gigs</h3>
-					<h4>Postponed due to</h4>
-					<p>Covid</p>
+					<h3>Nearly normal!</h3>
+					<h4>Back to rehearsals</h4>
+					<p>Gig to follow</p>
 				</div> 
 			</div>
 			<div class="span4">
@@ -104,10 +104,10 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**29 April 2021** - Mike on Facebook Live  
 **16 October 2021** - Bradley Woods, Brighouse  
 
 ### Recent Gigs
+**April 2021** - Mike on Facebook Live  
 **December 2020** - Mike on Facebook Live  
 **September 2020** - Mike on Facebook Live  
 **March 2020** - Ossett Cricket & Athletic Club  
