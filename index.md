@@ -86,9 +86,9 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					<div class="circle-border zoom-in">
 						<img class="img-circle" src="{{ site.baseurl }}/assets/images/Band pic16.jpg" alt="The New Inn" />
 					</div>
-					<h3>Nearly normal!</h3>
-					<h4>Back to rehearsals</h4>
-					<p>Gig to follow</p>
+					<h3>Groovy Happening</h3>
+					<h4>6 November 2021</h4>
+					<p>Haworth</p>
 				</div> 
 			</div>
 			<div class="span4">
@@ -105,6 +105,8 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div style="text-align: center;" markdown="1">
 
 **16 October 2021** - Bradley Woods, Brighouse  
+**6 November 2021** - Groovy Happening, Haworth  
+
 
 ### Recent Gigs
 **April 2021** - Mike on Facebook Live  
