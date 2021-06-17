@@ -114,10 +114,6 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **September 2020** - Mike on Facebook Live  
 **March 2020** - Ossett Cricket & Athletic Club  
 **February 2020** - Caroline St Club, Saltaire **&amp;** Shipley & District Social Club  
-**December 2019** - Utley Rugby Club  
-**November 2019** - Kirkgate Centre, Shipley    
-**October 2019** - Bradley Woods, Brighouse **&amp;** Salt Cellar, Saltaire **&amp;** Caroline St Club, Saltaire      
-**September 2019** - Central Hall, Keighley    
 
 </div>
 			
