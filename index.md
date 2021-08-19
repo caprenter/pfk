@@ -104,7 +104,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**16 October 2021** - Bradley Woods, Brighouse  
+**16 October 2021** - Postponed - Bradley Woods, Brighouse  
 **6 November 2021** - Groovy Happening, Haworth  
 
 
