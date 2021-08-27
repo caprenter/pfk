@@ -94,10 +94,10 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/members/Band pic16.jpg" alt="Bradley Woods" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/Band pic16.jpg" alt="Bradley Woods" />
 					</div>
 					<h3>Bradley Woods</h3>
-					<h4>Postponed till 2022</h4>
+					<h4>15 October 2022</h4>
 					<p>Brighouse</p>
 				</div>
 			</div>
