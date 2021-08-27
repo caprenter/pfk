@@ -74,38 +74,39 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/members/mike-2016.png" alt="Mike" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/Band pic16.jpg" alt="Groovy Happening" />
+					</div>
+					<h3>Groovy Happening</h3>
+					<h4>6 November 2021</h4>
+					<p>Haworth</p>
+				</div>
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/Band pic16.jpg" alt="People First" />
+					</div>
+					<h3>People First Xmas Party</h3>
+					<h4>17 December 2021</h4>
+					<p>Keighley</p>
+				</div> 
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/members/Band pic16.jpg" alt="Bradley Woods" />
 					</div>
 					<h3>Bradley Woods</h3>
 					<h4>Postponed till 2022</h4>
 					<p>Brighouse</p>
 				</div>
 			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/Band pic16.jpg" alt="The New Inn" />
-					</div>
-					<h3>Groovy Happening</h3>
-					<h4>6 November 2021</h4>
-					<p>Haworth</p>
-				</div> 
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/Availableforbookings.png" alt="Contact Us" />
-					</div>
-					<h3>Your Party?</h3>
-					<h4>Give Mike a Call</h4>
-					<p>07956 404017</p>
-				</div>
-			</div>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**16 October 2021** - Postponed - Bradley Woods, Brighouse  
 **6 November 2021** - Groovy Happening, Haworth  
+**17 December 2021** - People First Xmas Party, Keighley  
+**15 October 2022** - Bradley Woods, Brighouse  
 
 
 ### Recent Gigs
