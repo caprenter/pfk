@@ -84,7 +84,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/PeopleFirst.jpg" alt="People First" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/PeopleFirst.jpg" alt="People First" />
 					</div>
 					<h3>People First Xmas Party</h3>
 					<h4>17 December 2021</h4>
