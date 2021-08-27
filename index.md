@@ -74,7 +74,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/Band pic16.jpg" alt="Groovy Happening" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/Band pic8.jpg" alt="Groovy Happening" />
 					</div>
 					<h3>Groovy Happening</h3>
 					<h4>6 November 2021</h4>
