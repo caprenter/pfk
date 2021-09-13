@@ -84,28 +84,27 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Craven Skipton.jpg" alt="Craven, Skipton" />
-					</div>
-					<h3>The Craven Hotel</h3>
-					<h4>13 November 2021</h4>
-					<p>Skipton</p>
-				</div> 
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
 						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/PeopleFirst.jpg" alt="People First" />
 					</div>
 					<h3>People First Xmas Party</h3>
 					<h4>17 December 2021</h4>
 					<p>Keighley</p>
+				</div> 
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/Band pic16.jpg" alt="Brighouse" />
+					</div>
+					<h3>Bradley Woods</h3>
+					<h4>15 October 2022</h4>
+					<p>Brighouse</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
 **6 November 2021** - Groovy Happening, Haworth  
-**13 November 2021** - The Craven Hotel, Skipton  
 **17 December 2021** - People First Xmas Party, Keighley  
 **15 October 2022** - Bradley Woods, Brighouse  
 
