@@ -94,7 +94,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/Availablaforbookings.png" alt="Available" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/Availableforbookings.png" alt="Available" />
 					</div>
 					<h3>Call</h3>
 					<h4>Mike</h4>
