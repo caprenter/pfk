@@ -74,21 +74,21 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/Band pic8.jpg" alt="Groovy Happening" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/PeopleFirst.jpg" alt="People First" />
 					</div>
-					<h3>Groovy Happening</h3>
-					<h4>6 November 2021</h4>
-					<p>Haworth</p>
+					<h3>People First Xmas Party</h3>
+					<h4>17 December 2021</h4>
+					<p>Keighley</p>
 				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/highfield.jpg" alt="People First" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/highfield.jpg" alt="Bradley Woods" />
 					</div>
-					<h3>Highfield Hotel</h3>
-					<h4>13 November 2021</h4>
-					<p>Bradford</p>
+					<h3>Bradley Woods</h3>
+					<h4>15 October 2022</h4>
+					<p>Brighouse</p>
 				</div> 
 			</div>
 			<div class="span4">
@@ -104,13 +104,12 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**6 November 2021** - Groovy Happening, Haworth  
-**13 November 2021** - Highfield Hotel, Bradford  
 **17 December 2021** - People First Xmas Party, Keighley  
 **15 October 2022** - Bradley Woods, Brighouse  
 
 
 ### Recent Gigs
+**November 2021** - Groovy Happening, Haworth **&amp;** Highfield Hotel, Bradford  
 **April 2021** - Mike on Facebook Live  
 **December 2020** - Mike on Facebook Live  
 **September 2020** - Mike on Facebook Live  
