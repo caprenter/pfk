@@ -84,7 +84,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/highfield.jpg" alt="Bradley Woods" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/Band pic16.jpg" alt="Bradley Woods" />
 					</div>
 					<h3>Bradley Woods</h3>
 					<h4>15 October 2022</h4>
@@ -94,11 +94,11 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/PeopleFirst.jpg" alt="People First" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/Availablaforbookings.png" alt="Available" />
 					</div>
-					<h3>People First Xmas Party</h3>
-					<h4>17 December 2021</h4>
-					<p>Keighley</p>
+					<h3>Call</h3>
+					<h4>Mike</h4>
+					<p>07956404017</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
