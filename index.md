@@ -78,7 +78,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					</div>
 					<h3>People First Xmas Party</h3>
 					<h4>17 December 2021</h4>
-					<p>Keighley</p>
+					<p>Postponed</p>
 				</div>
 			</div>
 			<div class="span4">
@@ -104,7 +104,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**17 December 2021** - People First Xmas Party, Keighley  
+**17 December 2021** - People First Xmas Party, Keighley - Postponed  
 **15 October 2022** - Bradley Woods, Brighouse  
 
 
