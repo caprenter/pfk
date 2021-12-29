@@ -74,11 +74,11 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/PeopleFirst.jpg" alt="People First" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/highfield.jpg" alt="Highfield" />
 					</div>
-					<h3>People First Xmas Party</h3>
-					<h4>17 December 2021</h4>
-					<p>Postponed</p>
+					<h3>Highfield Hotel</h3>
+					<h4>5 March 2022</h4>
+					<p>Idle</p>
 				</div>
 			</div>
 			<div class="span4">
@@ -104,7 +104,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**17 December 2021** - People First Xmas Party, Keighley - Postponed  
+**5 March 2022** - Highfield Hotel, Bradford  
 **15 October 2022** - Bradley Woods, Brighouse  
 
 
