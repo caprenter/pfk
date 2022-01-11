@@ -87,7 +87,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/new-inn-wilsden.jpg" alt="New Inn" />
 					</div>
 					<h3>New Inn</h3>
-					<h4>19 March 2022</h4>
+					<h4>23 April 2022</h4>
 					<p>Wilsden</p>
 				</div> 
 			</div>
@@ -105,7 +105,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div style="text-align: center;" markdown="1">
 
 **5 March 2022** - Highfield Hotel, Bradford  
-**19 March 2022** - New Inn, Wilsden  
+**23 April 2022** - New Inn, Wilsden  
 **15 October 2022** - Bradley Woods, Brighouse  
 
 
