@@ -94,11 +94,11 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/Availableforbookings.png" alt="Available" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/GroovePad.jpg" alt="Groove Pad" />
 					</div>
-					<h3>Call</h3>
-					<h4>Mike</h4>
-					<p>07956404017</p>
+					<h3>Groove Pad</h3>
+					<h4>14 May 2022</h4>
+					<p>Shipley</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
@@ -106,6 +106,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 **5 March 2022** - Highfield Hotel, Bradford  
 **23 April 2022** - New Inn, Wilsden  
+**14 May 2022** - New Inn, Wilsden  
 **15 October 2022** - Bradley Woods, Brighouse  
 
 
