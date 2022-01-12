@@ -106,7 +106,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 **5 March 2022** - Highfield Hotel, Bradford  
 **23 April 2022** - New Inn, Wilsden  
-**14 May 2022** - New Inn, Wilsden  
+**14 May 2022** - Groove Pad, Shipley  
 **15 October 2022** - Bradley Woods, Brighouse  
 
 
