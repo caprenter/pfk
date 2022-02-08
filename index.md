@@ -108,6 +108,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **23 April 2022** - New Inn, Wilsden  
 **14 May 2022** - Groove Pad, Shipley  
 **30 June 2022** - Caroline St Club, Saltaire  
+**16 July 2022** - Eesti Kodu Club, Bradford  
 **15 October 2022** - Bradley Woods, Brighouse  
 **27 October 2022** - Caroline St Club, Saltaire  
 **16 December 2022** - Utley Rugby Club, Keighley  
