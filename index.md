@@ -74,22 +74,12 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/highfield.jpg" alt="Highfield" />
-					</div>
-					<h3>Highfield Hotel</h3>
-					<h4>5 March 2022</h4>
-					<p>Idle</p>
-				</div>
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
 						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/new-inn-wilsden.jpg" alt="New Inn" />
 					</div>
 					<h3>New Inn</h3>
 					<h4>23 April 2022</h4>
 					<p>Wilsden</p>
-				</div> 
+				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
@@ -99,12 +89,21 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					<h3>Groove Pad</h3>
 					<h4>14 May 2022</h4>
 					<p>Shipley</p>
+				</div> 
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/caroline-street.jpg" alt="Caroline St Club" />
+					</div>
+					<h3>Caroline St Club</h3>
+					<h4>30 June 2022</h4>
+					<p>Saltaire</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**5 March 2022** - Highfield Hotel, Bradford  
 **23 April 2022** - New Inn, Wilsden  
 **14 May 2022** - Groove Pad, Shipley  
 **30 June 2022** - Caroline St Club, Saltaire  
@@ -115,10 +114,8 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 
 ### Recent Gigs
+**March 2022** - Highfield Hotel, Bradford  
 **November 2021** - Groovy Happening, Haworth **&amp;** Highfield Hotel, Bradford  
-**April 2021** - Mike on Facebook Live  
-**December 2020** - Mike on Facebook Live  
-**September 2020** - Mike on Facebook Live  
 **March 2020** - Ossett Cricket & Athletic Club  
 **February 2020** - Caroline St Club, Saltaire **&amp;** Shipley & District Social Club  
 
