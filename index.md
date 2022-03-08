@@ -111,6 +111,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **15 October 2022** - Bradley Woods, Brighouse  
 **27 October 2022** - Caroline St Club, Saltaire  
 **16 December 2022** - Utley Rugby Club, Keighley  
+**4 February 2023** - Groovy Happening, Haworth  
 
 
 ### Recent Gigs
