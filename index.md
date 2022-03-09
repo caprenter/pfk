@@ -20,7 +20,7 @@ layout: default
 				<p>Playing for Kicks play songs you know and love from the Cure to Nena and The Killers to Earth Wind and Fire. There's something for everyone and you're sure to have a great night.</p>
 				<!-- <a href="#" class="da-link button">Read more</a> -->
 				<div class="da-img">
-					<img src="{{ site.baseurl }}/assets/images/Band pic4.jpg" alt="Band Photo 4" width="320">
+					<img src="{{ site.baseurl }}/assets/images/PFK2022atop.jpg" alt="Highfield" width="320">
 				</div>
 			</div>
 			<!-- End first slide -->
