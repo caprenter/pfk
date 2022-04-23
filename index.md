@@ -74,22 +74,12 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/new-inn-wilsden.jpg" alt="New Inn" />
-					</div>
-					<h3>New Inn</h3>
-					<h4>23 April 2022</h4>
-					<p>Wilsden</p>
-				</div>
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
 						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/GroovePad.jpg" alt="Groove Pad" />
 					</div>
 					<h3>Groove Pad</h3>
 					<h4>14 May 2022</h4>
 					<p>Shipley</p>
-				</div> 
+				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
@@ -99,12 +89,21 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					<h3>Caroline St Club</h3>
 					<h4>30 June 2022</h4>
 					<p>Saltaire</p>
+				</div> 
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/eestikodu.jpg" alt="Eesti Kodu Club" />
+					</div>
+					<h3>Eesti Kodu Club</h3>
+					<h4>16 July 2022</h4>
+					<p>Bradford</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**23 April 2022** - New Inn, Wilsden  
 **14 May 2022** - Groove Pad, Shipley  
 **30 June 2022** - Caroline St Club, Saltaire  
 **16 July 2022** - Eesti Kodu Club, Bradford  
@@ -115,6 +114,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 
 ### Recent Gigs
+**April 2022** - New Inn, Wilsden  
 **March 2022** - Highfield Hotel, Bradford  
 **November 2021** - Groovy Happening, Haworth **&amp;** Highfield Hotel, Bradford  
 **March 2020** - Ossett Cricket & Athletic Club  
