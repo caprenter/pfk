@@ -84,11 +84,11 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/caroline-street.jpg" alt="Caroline St Club" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/logo.png" alt="Logo" />
 					</div>
-					<h3>Caroline St Club</h3>
-					<h4>30 June 2022</h4>
-					<p>Saltaire</p>
+					<h3>Planned booking</h3>
+					<h4>11 June 2022</h4>
+					<p>Shipley</p>
 				</div> 
 			</div>
 			<div class="span4">
