@@ -84,7 +84,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/logo.png" alt="Logo" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/Privateparty.png" alt="Logo" />
 					</div>
 					<h3>Planned booking</h3>
 					<h4>11 June 2022</h4>
