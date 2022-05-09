@@ -105,7 +105,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div style="text-align: center;" markdown="1">
 
 **14 May 2022** - Groove Pad, Shipley  
-**30 June 2022** - Caroline St Club, Saltaire  
+**11 June 2022** - Planned booking  
 **16 July 2022** - Eesti Kodu Club, Bradford  
 **15 October 2022** - Bradley Woods, Brighouse  
 **27 October 2022** - Caroline St Club, Saltaire  
