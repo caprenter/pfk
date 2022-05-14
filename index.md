@@ -1,4 +1,4 @@
----
+1---
 title: Playing For Kicks
 layout: default
 ---
@@ -74,22 +74,12 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/GroovePad.jpg" alt="Groove Pad" />
-					</div>
-					<h3>Groove Pad</h3>
-					<h4>14 May 2022</h4>
-					<p>Shipley</p>
-				</div>
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
 						<img class="img-circle" src="{{ site.baseurl }}/assets/images/Privateparty.png" alt="Logo" />
 					</div>
 					<h3>Planned booking</h3>
 					<h4>11 June 2022</h4>
 					<p>Shipley</p>
-				</div> 
+				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
@@ -99,12 +89,21 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					<h3>Eesti Kodu Club</h3>
 					<h4>16 July 2022</h4>
 					<p>Bradford</p>
+				</div> 
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/bradley-woods.jpg" alt="Bradley Woods" />
+					</div>
+					<h3>Bradley Woods</h3>
+					<h4>15 October 2022</h4>
+					<p>Brighouse</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**14 May 2022** - Groove Pad, Shipley  
 **11 June 2022** - Planned booking  
 **16 July 2022** - Eesti Kodu Club, Bradford  
 **15 October 2022** - Bradley Woods, Brighouse  
@@ -114,6 +113,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 
 ### Recent Gigs
+**May 2022** - Groove Pad, Shipley  
 **April 2022** - New Inn, Wilsden  
 **March 2022** - Highfield Hotel, Bradford  
 **November 2021** - Groovy Happening, Haworth **&amp;** Highfield Hotel, Bradford  
