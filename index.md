@@ -1,4 +1,4 @@
-1---
+---
 title: Playing For Kicks
 layout: default
 ---
