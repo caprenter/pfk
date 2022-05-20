@@ -76,7 +76,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					<div class="circle-border zoom-in">
 						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/tipi.jpg" alt="Tipi" />
 					</div>
-					<h3>Private function</h3>
+					<h3>Redfest</h3>
 					<h4>11 June 2022</h4>
 					<p>Hawksworth</p>
 				</div>
@@ -104,7 +104,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**11 June 2022** - Private Function, Hawksworth  
+**11 June 2022** - Redfest, Hawksworth  
 **16 July 2022** - Eesti Kodu Club, Bradford  
 **24 September 2022** - Groove Pad, Shipley  
 **15 October 2022** - Bradley Woods, Brighouse  
