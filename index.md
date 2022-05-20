@@ -106,6 +106,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 **11 June 2022** - Private Function, Hawksworth  
 **16 July 2022** - Eesti Kodu Club, Bradford  
+**24 September 2022** - Groove Pad, Shipley  
 **15 October 2022** - Bradley Woods, Brighouse  
 **27 October 2022** - Caroline St Club, Saltaire  
 **16 December 2022** - Utley Rugby Club, Keighley  
