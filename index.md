@@ -94,11 +94,11 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/bradley-woods.jpg" alt="Bradley Woods" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/GroovePad.jpg" alt="Groove Pad" />
 					</div>
-					<h3>Bradley Woods</h3>
-					<h4>15 October 2022</h4>
-					<p>Brighouse</p>
+					<h3>Groove Pad</h3>
+					<h4>24 September 2022</h4>
+					<p>Shipley</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
