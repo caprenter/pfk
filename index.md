@@ -104,7 +104,6 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**11 June 2022** - Redfest, Hawksworth  
 **16 July 2022** - Eesti Kodu Club, Bradford  
 **24 September 2022** - Groove Pad, Shipley  
 **15 October 2022** - Bradley Woods, Brighouse  
@@ -114,12 +113,11 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 
 ### Recent Gigs
+**June 2022** - Redfest, Hawksworth  
 **May 2022** - Groove Pad, Shipley  
 **April 2022** - New Inn, Wilsden  
 **March 2022** - Highfield Hotel, Bradford  
 **November 2021** - Groovy Happening, Haworth **&amp;** Highfield Hotel, Bradford  
-**March 2020** - Ossett Cricket & Athletic Club  
-**February 2020** - Caroline St Club, Saltaire **&amp;** Shipley & District Social Club  
 
 </div>
 			
