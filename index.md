@@ -74,22 +74,12 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/tipi.jpg" alt="Tipi" />
-					</div>
-					<h3>Redfest</h3>
-					<h4>11 June 2022</h4>
-					<p>Hawksworth</p>
-				</div>
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
 						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/eestikodu.jpg" alt="Eesti Kodu Club" />
 					</div>
 					<h3>Eesti Kodu Club</h3>
 					<h4>16 July 2022</h4>
 					<p>Bradford</p>
-				</div> 
+				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
@@ -99,6 +89,16 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					<h3>Groove Pad</h3>
 					<h4>24 September 2022</h4>
 					<p>Shipley</p>
+				</div> 
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/bradley-woods.jpg" alt="Bradley Woods" />
+					</div>
+					<h3>Bradley Woods</h3>
+					<h4>15 October 2022</h4>
+					<p>Brighouse</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
