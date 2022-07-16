@@ -74,22 +74,12 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/eestikodu.jpg" alt="Eesti Kodu Club" />
-					</div>
-					<h3>Eesti Kodu Club</h3>
-					<h4>16 July 2022</h4>
-					<p>Bradford</p>
-				</div>
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
 						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/GroovePad.jpg" alt="Groove Pad" />
 					</div>
 					<h3>Groove Pad</h3>
 					<h4>24 September 2022</h4>
 					<p>Shipley</p>
-				</div> 
+				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
@@ -99,12 +89,22 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					<h3>Bradley Woods</h3>
 					<h4>15 October 2022</h4>
 					<p>Brighouse</p>
+				</div> 
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/bradley-woods.jpg" alt="Bradley Woods" />
+					</div>
+					<h3>Caroline St Club</h3>
+					<h4>27 October 2022</h4>
+					<p>Saltaire</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**16 July 2022** - Eesti Kodu Club, Bradford  
+  
 **24 September 2022** - Groove Pad, Shipley  
 **15 October 2022** - Bradley Woods, Brighouse  
 **27 October 2022** - Caroline St Club, Saltaire  
@@ -113,6 +113,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 
 ### Recent Gigs
+**July 2022** - Eesti Kodu Club, Bradford  
 **June 2022** - Redfest, Hawksworth  
 **May 2022** - Groove Pad, Shipley  
 **April 2022** - New Inn, Wilsden  
