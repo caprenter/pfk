@@ -77,18 +77,18 @@ gigs to check us out, and/or contact us to check our availability.</p>
 						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/GroovePad.jpg" alt="Groove Pad" />
 					</div>
 					<h3>Groove Pad</h3>
-					<h4>24 September 2022</h4>
+					<h4>23 September 2022</h4>
 					<p>Shipley</p>
 				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/bradley-woods.jpg" alt="Bradley Woods" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/highfield.jpg" alt="Highfield" />
 					</div>
-					<h3>Bradley Woods</h3>
-					<h4>15 October 2022</h4>
-					<p>Brighouse</p>
+					<h3>Highfield Hotel</h3>
+					<h4>22 October 2022</h4>
+					<p>Idle</p>
 				</div> 
 			</div>
 			<div class="span4">
@@ -105,8 +105,8 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div style="text-align: center;" markdown="1">
 
   
-**24 September 2022** - Groove Pad, Shipley  
-**15 October 2022** - Bradley Woods, Brighouse  
+**23 September 2022** - Groove Pad, Shipley  
+**22 October 2022** - Highfield Hotel, Idle  
 **27 October 2022** - Caroline St Club, Saltaire  
 **16 December 2022** - Utley Rugby Club, Keighley  
 **4 February 2023** - Groovy Happening, Haworth  
