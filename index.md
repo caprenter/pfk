@@ -84,11 +84,11 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/highfield.jpg" alt="Highfield" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/new-inn-wilsden.jpg" alt="New Inn" />
 					</div>
-					<h3>Highfield Hotel</h3>
-					<h4>22 October 2022</h4>
-					<p>Idle</p>
+					<h3>New Inn</h3>
+					<h4>15 October 2022</h4>
+					<p>Wilsden</p>
 				</div> 
 			</div>
 			<div class="span4">
@@ -106,7 +106,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
   
 **23 September 2022** - Groove Pad, Shipley  
-**22 October 2022** - Highfield Hotel, Idle  
+**15 October 2022** - New Inn, Wilsden  
 **27 October 2022** - Caroline St Club, Saltaire  
 **16 December 2022** - Utley Rugby Club, Keighley  
 **4 February 2023** - Groovy Happening, Haworth  
