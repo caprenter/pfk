@@ -73,23 +73,12 @@ gigs to check us out, and/or contact us to check our availability.</p>
 		<div class="row-fluid">
 			<div class="span4">
 				<div class="centered service">
-					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/new-inn-wilsden.jpg" alt="New Inn" />
-					</div>
-					<h3>New Inn</h3>
-					<h4>15 October 2022</h4>
-					<p>Wilsden</p>
-				</div>
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/caroline-street.jpg" alt="Caroline St Club" />
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/caroline-street.jpg" alt="Caroline St Club" />
 					</div>
 					<h3>Caroline St Club</h3>
 					<h4>27 October 2022</h4>
 					<p>Saltaire</p>
-				</div> 
+				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
@@ -99,13 +88,22 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					<h3>Rugby Club</h3>
 					<h4>16 December 2022</h4>
 					<p>Utley, Keighley</p>
+				</div> 
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/GH Logo.jpg" alt="Groovy Happening" />
+					</div>
+					<h3>Groovy Happening</h3>
+					<h4>4 February 2023</h4>
+					<p>Haworth</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
   
-**15 October 2022** - New Inn, Wilsden  
 **27 October 2022** - Caroline St Club, Saltaire  
 **16 December 2022** - Utley Rugby Club, Keighley  
 **4 February 2023** - Groovy Happening, Haworth  
@@ -114,6 +112,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 
 ### Recent Gigs
+**October 2022** - New Inn, Wilsden  
 **September 2022** - Groove Pad, Shipley  
 **July 2022** - Eesti Kodu Club, Bradford  
 **June 2022** - Redfest, Hawksworth  
