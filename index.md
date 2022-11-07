@@ -109,6 +109,8 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **4 February 2023** - Groovy Happening, Haworth  
 **16 February 2023** - Caroline St Club, Saltaire  
 **4 March 2023** - Bradley Woods, Brighouse  
+**29 April 2023** - Miller's Bar, Brighouse  
+
 
 
 ### Recent Gigs
@@ -119,7 +121,6 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **May 2022** - Groove Pad, Shipley  
 **April 2022** - New Inn, Wilsden  
 **March 2022** - Highfield Hotel, Bradford  
-**November 2021** - Groovy Happening, Haworth **&amp;** Highfield Hotel, Bradford  
 
 </div>
 			
