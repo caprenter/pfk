@@ -108,6 +108,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **4 February 2023** - Groovy Happening, Haworth  
 **16 February 2023** - Caroline St Club, Saltaire  
 **4 March 2023** - Bradley Wood, Brighouse  
+**1 April 2023** - Highfield Hotel, Idle, Bradford  
 **29 April 2023** - Miller's Bar, Brighouse  
 **29 June 2023** - Caroline St Club, Saltaire  
 **26 October 2023** - Caroline St Club, Saltaire  
