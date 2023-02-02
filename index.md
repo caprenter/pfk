@@ -94,11 +94,11 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/bradley-woods.jpg" alt="Bradley Wood" />
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/highfield.jpg" alt="Highfield" />
 					</div>
-					<h3>Bradley Wood</h3>
-					<h4>4 March 2023</h4>
-					<p>Brighouse</p>
+					<h3>Highfield</h3>
+					<h4>1 April 2023</h4>
+					<p>Idle</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
@@ -107,7 +107,6 @@ gigs to check us out, and/or contact us to check our availability.</p>
   
 **4 February 2023** - Groovy Happening, Haworth  
 **16 February 2023** - Caroline St Club, Saltaire  
-**4 March 2023** - Bradley Wood, Brighouse  
 **1 April 2023** - Highfield Hotel, Idle, Bradford  
 **29 April 2023** - Miller's Bar, Brighouse  
 **20 May 2023** - Woddbottom WMC, Baildon  
