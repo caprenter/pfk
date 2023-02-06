@@ -1,18 +1,18 @@
 gigs:
 
 - number: 0
+  title: "Groovy Happening"
+  photo: "Groovy2023.jpg"
+  when: "February 2023"
+  what: "Our second visit to this fantastic monthly event"
+  description: "Nat's first full gig with us. The Groovy crowd are always warm and welcoming and we had a wonderful night. We'll be back!"
+
+- number: 1
   title: "Groove Pad"
   photo: "GroovePad.jpg"
   when: "May 2022"
   what: "First visit to a great venue"
   description: "Having rehearsed in their basement, we had the chance to tread their stage and shared a great evening with friends old and new!"
-
-- number: 1
-  title: "Highfield"
-  photo: "PFK2022c.jpg"
-  when: "March 2022"
-  what: "At the Highfield, Bradford"
-  description: "A relatively quick return to the Highfield. We had a great turnout of regulars from the Open Mic night we host there."
   
 - number: 2
   title: "Bradley Wood"
