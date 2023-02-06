@@ -106,6 +106,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
   
 **16 February 2023** - Caroline St Club, Saltaire  
+**4 March 2023** - New Inn, Wilsden  
 **1 April 2023** - Highfield Hotel, Idle, Bradford  
 **29 April 2023** - Miller's Bar, Brighouse  
 **20 May 2023** - Woddbottom WMC, Baildon  
