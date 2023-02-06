@@ -74,22 +74,12 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/GH Logo.jpg" alt="Groovy Happening" />
-					</div>
-					<h3>Groovy Happening</h3>
-					<h4>4 February 2023</h4>
-					<p>Haworth</p>
-				</div>
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
 					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/caroline-street.jpg" alt="Caroline St Club" />
 					</div>
 					<h3>Caroline St Club</h3>
 					<h4>16 February 2023</h4>
 					<p>Saltaire</p>
-				</div> 
+				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
@@ -99,13 +89,22 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					<h3>Highfield</h3>
 					<h4>1 April 2023</h4>
 					<p>Idle</p>
+				</div> 
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/millersbar.jpg" alt="Millers Bar" />
+					</div>
+					<h3>Millers Bar</h3>
+					<h4>29 April 2023</h4>
+					<p>Brighouse</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
   
-**4 February 2023** - Groovy Happening, Haworth  
 **16 February 2023** - Caroline St Club, Saltaire  
 **1 April 2023** - Highfield Hotel, Idle, Bradford  
 **29 April 2023** - Miller's Bar, Brighouse  
@@ -117,6 +116,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 
 ### Recent Gigs
+**February 2023** - Groovy Happening, Haworth  
 **December 2022** - Utley Rugby Club, Keighley  
 **October 2022** - New Inn, Wilsden **&amp;** Caroline St Club, Saltaire   
 **September 2022** - Groove Pad, Shipley  
