@@ -109,6 +109,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **1 April 2023** - Highfield Hotel, Idle, Bradford  
 **29 April 2023** - Miller's Bar, Brighouse  
 **20 May 2023** - Woddbottom WMC, Baildon  
+**3 June 2023** - OSCA Foundation, Ovenden  
 **29 June 2023** - Caroline St Club, Saltaire  
 **26 October 2023** - Caroline St Club, Saltaire  
 **15 December 2022** - PFKC Christmas Party, Keighley  
