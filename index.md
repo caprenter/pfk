@@ -108,7 +108,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **4 March 2023** - New Inn, Wilsden  
 **1 April 2023** - Highfield Hotel, Idle, Bradford  
 **29 April 2023** - Miller's Bar, Brighouse  
-**20 May 2023** - Woddbottom WMC, Baildon  
+**20 May 2023** - Woodbottom WMC, Baildon  
 **3 June 2023** - OSCA Foundation, Ovenden  
 **29 June 2023** - Caroline St Club, Saltaire  
 **26 October 2023** - Caroline St Club, Saltaire  
@@ -125,7 +125,6 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **June 2022** - Redfest, Hawksworth  
 **May 2022** - Groove Pad, Shipley  
 **April 2022** - New Inn, Wilsden  
-**March 2022** - Highfield Hotel, Bradford  
 
 </div>
 			
