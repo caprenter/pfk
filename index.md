@@ -74,22 +74,12 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/new-inn-wilsden.jpg" alt="New Inn" />
-					</div>
-					<h3>New Inn</h3>
-					<h4>4 March 2023</h4>
-					<p>Wilsden</p>
-				</div>
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
 					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/highfield.jpg" alt="Highfield" />
 					</div>
 					<h3>Highfield</h3>
 					<h4>1 April 2023</h4>
 					<p>Idle</p>
-				</div> 
+				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
@@ -99,13 +89,22 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					<h3>Millers Bar</h3>
 					<h4>29 April 2023</h4>
 					<p>Brighouse</p>
+				</div> 
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/woodbottom.jpg" alt="Woodbottom WMC" />
+					</div>
+					<h3>Woodbottom WMC</h3>
+					<h4>20 May 2023</h4>
+					<p>Baildon</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
   
-**4 March 2023** - New Inn, Wilsden  
 **1 April 2023** - Highfield Hotel, Idle, Bradford  
 **29 April 2023** - Miller's Bar, Brighouse  
 **20 May 2023** - Woodbottom WMC, Baildon  
@@ -117,6 +116,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 
 ### Recent Gigs
+**March 2023** - New Inn, Wilsden  
 **February 2023** - Groovy Happening, Haworth **&amp;** Caroline St Club, Saltaire  
 **December 2022** - Utley Rugby Club, Keighley  
 **October 2022** - New Inn, Wilsden **&amp;** Caroline St Club, Saltaire   
