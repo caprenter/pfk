@@ -94,7 +94,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/IdleHepworth.jpg" alt="Hepworth & Idle" />
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/IdleHepworth.jpeg" alt="Hepworth & Idle" />
 					</div>
 					<h3>Hepworth & Idle Beer Festival</h3>
 					<h4>23 June 2023</h4>
