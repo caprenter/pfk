@@ -74,22 +74,12 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/millersbar.jpg" alt="Millers Bar" />
-					</div>
-					<h3>Millers Bar</h3>
-					<h4>29 April 2023</h4>
-					<p>Brighouse</p>
-				</div>
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
 					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/woodbottom.jpg" alt="Woodbottom WMC" />
 					</div>
 					<h3>Woodbottom WMC</h3>
 					<h4>20 May 2023</h4>
 					<p>Baildon</p>
-				</div> 
+				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
@@ -99,14 +89,22 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					<h3>OSCA</h3>
 					<h4>3 June 2023</h4>
 					<p>Ovenden</p>
+				</div> 
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/IdleHepworth.jpg" alt="Hepworth & Idle" />
+					</div>
+					<h3>Hepworth & Idle Beer Festival</h3>
+					<h4>23 June 2023</h4>
+					<p>Idle</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
   
-**1 April 2023** - Highfield Hotel, Idle, Bradford  
-**29 April 2023** - Miller's Bar, Brighouse  
 **20 May 2023** - Woodbottom WMC, Baildon  
 **3 June 2023** - OSCA Foundation, Ovenden  
 **23 June 2023** - Idle & Hepworth Cricket Club  
@@ -117,6 +115,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 
 ### Recent Gigs
+**April 2023** - Miller's Bar, Brighouse  
 **March 2023** - New Inn, Wilsden  
 **February 2023** - Groovy Happening, Haworth **&amp;** Caroline St Club, Saltaire  
 **December 2022** - Utley Rugby Club, Keighley  
@@ -125,7 +124,6 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **July 2022** - Eesti Kodu Club, Bradford  
 **June 2022** - Redfest, Hawksworth  
 **May 2022** - Groove Pad, Shipley  
-**April 2022** - New Inn, Wilsden  
 
 </div>
 			
