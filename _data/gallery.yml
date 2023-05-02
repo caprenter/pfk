@@ -8,7 +8,7 @@ gigs:
   description: "A wonderful celebratory atmosphere for a landmark birthday. The venue was compact and the crowd was enthusiastic and inviting. Great fun!"
 
 - number: 1
-   title: "Groovy Happening"
+  title: "Groovy Happening"
   photo: "Groovy2023.jpg"
   when: "February 2023"
   what: "Our second visit to this fantastic monthly event"
