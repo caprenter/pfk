@@ -1,23 +1,23 @@
 gigs:
 
 - number: 0
-  title: "Groovy Happening"
+  title: "Millers Bar"
+  photo: "MillersBar.jpg"
+  when: "April 2023"
+  what: "A private birthday party in Brighouse"
+  description: "A wonderful celebratory atmosphere for a landmark birthday. The venue was compct and the crowd was enthusiastic and inviting. Great fun!"
+
+- number: 1
+   title: "Groovy Happening"
   photo: "Groovy2023.jpg"
   when: "February 2023"
   what: "Our second visit to this fantastic monthly event"
   description: "Nat's first full gig with us. The Groovy crowd are always warm and welcoming and we had a wonderful night. We'll be back!"
-
-- number: 1
+  
+- number: 2
   title: "Groove Pad"
   photo: "GroovePad.jpg"
   when: "May 2022"
   what: "First visit to a great venue"
   description: "Having rehearsed in their basement, we had the chance to tread their stage and shared a great evening with friends old and new!"
-  
-- number: 2
-  title: "Bradley Wood"
-  photo: "Grim2019.jpg"
-  when: "October 2019"
-  what: "Grim Up North"
-  description: "We always have a great time at Grim, and this year they danced with us all through the second set and then wouldn't let us go until we'd played five encores! Fantastic night."
 
