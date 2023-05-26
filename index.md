@@ -109,6 +109,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **23 June 2023** - Idle & Hepworth Cricket Club  
 **29 June 2023** - Caroline St Club, Saltaire  
 **26 October 2023** - Caroline St Club, Saltaire  
+**4 November 2023** - Groove Pad, Shipley  
 **15 December 2022** - PFKC Christmas Party, Keighley  
 
 
