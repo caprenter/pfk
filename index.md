@@ -74,22 +74,12 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/OSCA.jpg" alt="OSCA" />
-					</div>
-					<h3>OSCA</h3>
-					<h4>3 June 2023</h4>
-					<p>Ovenden</p>
-				</div>
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
 					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/IdleHepworth.jpeg" alt="Hepworth & Idle" />
 					</div>
 					<h3>Hepworth & Idle Beer Festival</h3>
 					<h4>23 June 2023</h4>
 					<p>Idle</p>
-				</div> 
+				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
@@ -99,13 +89,22 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					<h3>Caroline St Club</h3>
 					<h4>29 June 2023</h4>
 					<p>Saltaire</p>
+				</div> 
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/highfield.jpg" alt="Highfield" />
+					</div>
+					<h3>The Highfield Hotel</h3>
+					<h4>2 September 2023</h4>
+					<p>Idle</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
   
-**3 June 2023** - OSCA Foundation, Ovenden  
 **23 June 2023** - Idle & Hepworth Cricket Club  
 **29 June 2023** - Caroline St Club, Saltaire  
 **2 September 2023** - Highfield Hotel, Bradford  
@@ -117,6 +116,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 
 ### Recent Gigs
+**June 2023** - OSCA Foundation, Ovenden  
 **May 2023** - Woodbottom WMC, Baildon  
 **April 2023** - Miller's Bar, Brighouse  
 **March 2023** - New Inn, Wilsden  
@@ -125,7 +125,6 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **October 2022** - New Inn, Wilsden **&amp;** Caroline St Club, Saltaire   
 **September 2022** - Groove Pad, Shipley  
 **July 2022** - Eesti Kodu Club, Bradford  
-**June 2022** - Redfest, Hawksworth  
 
 </div>
 			
