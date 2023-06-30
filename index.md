@@ -28,7 +28,7 @@ layout: default
 			<div class="da-slide">
 			<h2>Playing For Kicks</h2>
 				<h4>Songs For Everybody</h4>
-				<p>Supergrass, Style Council, Queen, Madness, Police, The Feeling and many more...</p>
+				<p>Tina Turner, Style Council, Queen, Madness, Police, The Feeling and many more...</p>
 				<!-- <a href="#" class="da-link button">Read more</a> -->
 				<div class="da-img">
 					<img src="{{ site.baseurl }}/assets/images/Band pic16b.jpg" width="320" alt="Band Photo 16b">
@@ -74,10 +74,10 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/IdleHepworth.jpeg" alt="Hepworth & Idle" />
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/highfield.jpg" alt="Highfield" />
 					</div>
-					<h3>Hepworth & Idle Beer Festival</h3>
-					<h4>23 June 2023</h4>
+					<h3>The Highfield Hotel</h3>
+					<h4>2 September 2023</h4>
 					<p>Idle</p>
 				</div>
 			</div>
@@ -87,26 +87,24 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/caroline-street.jpg" alt="Caroline St Club" />
 					</div>
 					<h3>Caroline St Club</h3>
-					<h4>29 June 2023</h4>
+					<h4>26 October 2023</h4>
 					<p>Saltaire</p>
 				</div> 
 			</div>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/highfield.jpg" alt="Highfield" />
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/GroovePad.jpg" alt="Groove Pad" />
 					</div>
-					<h3>The Highfield Hotel</h3>
-					<h4>2 September 2023</h4>
-					<p>Idle</p>
+					<h3>Groove Pad</h3>
+					<h4>4 November 2023</h4>
+					<p>Shipley</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
   
-**23 June 2023** - Idle & Hepworth Cricket Club  
-**29 June 2023** - Caroline St Club, Saltaire  
 **2 September 2023** - Highfield Hotel, Bradford  
 **26 October 2023** - Caroline St Club, Saltaire  
 **4 November 2023** - Groove Pad, Shipley  
@@ -116,7 +114,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 
 ### Recent Gigs
-**June 2023** - OSCA Foundation, Ovenden  
+**June 2023** - OSCA Foundation, Ovenden **&amp;** Caroline St Club, Saltaire  
 **May 2023** - Woodbottom WMC, Baildon  
 **April 2023** - Miller's Bar, Brighouse  
 **March 2023** - New Inn, Wilsden  
