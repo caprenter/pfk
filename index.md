@@ -106,7 +106,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
   
 **2 September 2023** - Highfield Hotel, Bradford  
-**26 October 2023** - Caroline St Club, Saltaire  
+**26 October 2023** - Central Hall, Keighley  
 **4 November 2023** - Groove Pad, Shipley  
 **15 December 2022** - PFKC Christmas Party, Keighley  
 **6 April 2024** - Groovy Happening, Haworth  
