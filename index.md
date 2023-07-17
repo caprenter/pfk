@@ -84,11 +84,11 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/caroline-street.jpg" alt="Caroline St Club" />
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/PeopleFirst.jpg" alt="People First" />
 					</div>
-					<h3>Caroline St Club</h3>
+					<h3>Central Hall</h3>
 					<h4>26 October 2023</h4>
-					<p>Saltaire</p>
+					<p>Keighley</p>
 				</div> 
 			</div>
 			<div class="span4">
