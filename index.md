@@ -20,7 +20,7 @@ layout: default
 				<p>Playing for Kicks play songs you know and love from ELO to Divine Comedy and The Killers to Earth Wind and Fire. There's something for everyone and you're sure to have a great night.</p>
 				<!-- <a href="#" class="da-link button">Read more</a> -->
 				<div class="da-img">
-					<img src="{{ site.baseurl }}/assets/images/Groovy2023top.jpg" alt="Groovy Happening" width="320">
+					<img src="{{ site.baseurl }}/assets/images/PFK Band Pic 231.jpg" alt="Caroline St" width="320">
 				</div>
 			</div>
 			<!-- End first slide -->
