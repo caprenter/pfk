@@ -74,22 +74,12 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/highfield.jpg" alt="Highfield" />
-					</div>
-					<h3>The Highfield Hotel</h3>
-					<h4>2 September 2023</h4>
-					<p>Idle</p>
-				</div>
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/PeopleFirst.jpg" alt="People First" />
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/CentralHall.jpg" alt="Central Hall" />
 					</div>
 					<h3>Central Hall</h3>
 					<h4>26 October 2023</h4>
 					<p>Keighley</p>
-				</div> 
+				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
@@ -99,6 +89,16 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					<h3>Groove Pad</h3>
 					<h4>4 November 2023</h4>
 					<p>Shipley</p>
+				</div> 
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/PeopleFirst.jpg" alt="People First" />
+					</div>
+					<h3>People First</h3>
+					<h4>15 December 2023</h4>
+					<p>Keighley</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
