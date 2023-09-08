@@ -105,15 +105,15 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div style="text-align: center;" markdown="1">
 
   
-**2 September 2023** - Highfield Hotel, Bradford  
 **26 October 2023** - Central Hall, Keighley  
 **4 November 2023** - Groove Pad, Shipley  
-**15 December 2022** - PFKC Christmas Party, Keighley  
+**15 December 2023** - PFKC Christmas Party, Keighley  
 **6 April 2024** - Groovy Happening, Haworth  
 
 
 
 ### Recent Gigs
+**September 2023** - Highfield Hotel, Bradford  
 **June 2023** - OSCA Foundation, Ovenden **&amp;** Caroline St Club, Saltaire  
 **May 2023** - Woodbottom WMC, Baildon  
 **April 2023** - Miller's Bar, Brighouse  
@@ -121,8 +121,6 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **February 2023** - Groovy Happening, Haworth **&amp;** Caroline St Club, Saltaire  
 **December 2022** - Utley Rugby Club, Keighley  
 **October 2022** - New Inn, Wilsden **&amp;** Caroline St Club, Saltaire   
-**September 2022** - Groove Pad, Shipley  
-**July 2022** - Eesti Kodu Club, Bradford  
 
 </div>
 			
