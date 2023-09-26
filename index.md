@@ -84,21 +84,21 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/PeopleFirst.jpg" alt="People First" />
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/NewRoxy.jpg" alt="New Roxy" />
 					</div>
-					<h3>People First</h3>
-					<h4>15 December 2023</h4>
-					<p>Keighley</p>
+					<h3>New Roxy</h3>
+					<h4>4 November 2023</h4>
+					<p>Sowerby Bridge</p>
 				</div> 
 			</div>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/GroovePad.jpg" alt="Groove Pad" />
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/PeopleFirst.jpg" alt="People First" />
 					</div>
-					<h3>Groove Pad</h3>
-					<h4>3 March 2024</h4>
-					<p>Shipley</p>
+					<h3>People First</h3>
+					<h4>15 December 2023</h4>
+					<p>Keighley</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
@@ -106,6 +106,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
   
 **26 October 2023** - Central Hall, Keighley  
+**4 November 2023** - The New Roxy, Sowerby Bridge  
 **15 December 2023** - PFKC Christmas Party, Keighley  
 **3 February 2024** - Groove Pad, Shipley  
 **6 April 2024** - Groovy Happening, Haworth  
