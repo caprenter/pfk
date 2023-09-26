@@ -97,7 +97,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/GroovePad.jpg" alt="Groove Pad" />
 					</div>
 					<h3>Groove Pad</h3>
-					<h4>4 November 2023</h4>
+					<h4>3 March 2024</h4>
 					<p>Shipley</p>
 				</div>
 			</div>
