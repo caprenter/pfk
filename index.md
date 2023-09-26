@@ -84,7 +84,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/NewRoxy.jpg" alt="New Roxy" />
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/NewRoxy.jpeg" alt="New Roxy" />
 					</div>
 					<h3>New Roxy</h3>
 					<h4>4 November 2023</h4>
