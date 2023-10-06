@@ -94,11 +94,11 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/PeopleFirst.jpg" alt="People First" />
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/acorneldwick.jpg" alt="Acorn" />
 					</div>
-					<h3>People First</h3>
-					<h4>15 December 2023</h4>
-					<p>Keighley</p>
+					<h3>Acorn Inn</h3>
+					<h4>2 December 2023</h4>
+					<p>Eldwick</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
@@ -107,6 +107,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
   
 **26 October 2023** - Central Hall, Keighley  
 **4 November 2023** - The New Roxy, Sowerby Bridge  
+**2 December 2023** - Acorn, Eldwick  
 **15 December 2023** - PFKC Christmas Party, Keighley  
 **3 February 2024** - Groove Pad, Shipley  
 **6 April 2024** - Groovy Happening, Haworth  
@@ -121,7 +122,6 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **March 2023** - New Inn, Wilsden  
 **February 2023** - Groovy Happening, Haworth **&amp;** Caroline St Club, Saltaire  
 **December 2022** - Utley Rugby Club, Keighley  
-**October 2022** - New Inn, Wilsden **&amp;** Caroline St Club, Saltaire   
 
 </div>
 			
