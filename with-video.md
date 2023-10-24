@@ -1,5 +1,5 @@
 ---
-title: Playing For Kicks
+title: Playing For Kicks - Embedded Video
 layout: default
 ---
 	
