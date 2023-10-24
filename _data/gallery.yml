@@ -3,6 +3,7 @@ gigs:
 - number: 0
   title: "Caroline St Club"
   photo: "PFK Band Pic 232.jpg"
+  video: "no"
   when: "June 2023"
   what: "One of our regular private partis for our favourite charity"
   description: "As always with People First, we had a fantastic night, and were also lucky enough to have the help of Bingley Camera Club taking photos."
@@ -10,13 +11,15 @@ gigs:
 - number: 1
   title: "Millers Bar"
   photo: "MillersBar.jpg"
+  video: "no"
   when: "April 2023"
   what: "A private birthday party in Brighouse"
   description: "A wonderful celebratory atmosphere for a landmark birthday. The venue was compact and the crowd was enthusiastic and inviting. Great fun!"
   
 - number: 2
-  title: "Groovy Happening"
+  title: "Woodbottom WMC"
   photo: "Groovy2023.jpg"
+  video: "pfk-woodbottom.mp4"
   when: "February 2023"
   what: "Our second visit to this fantastic monthly event"
   description: "Nat's first full gig with us. The Groovy crowd are always warm and welcoming and we had a wonderful night. We'll be back!"

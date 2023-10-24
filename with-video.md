@@ -1,6 +1,6 @@
 ---
-title: Playing For Kicks - Embedded Video
-layout: default
+title: Playing For Kicks
+layout: default-v
 ---
 	
 						
@@ -31,12 +31,7 @@ layout: default
 				<p>Tina Turner, Style Council, Queen, Madness, Police, The Feeling and many more...</p>
 				<!-- <a href="#" class="da-link button">Read more</a> -->
 				<div class="da-img">
-					<video controls autoplay muted loop>
-						<source src="{{ site.baseurl }}/assets/images/pfk-woodbottom.mp4" type="video/mp4" id="woodbottom">
-						Video not supported by your browser :-(
-					</video>
-					
-					<!-- <video src="{{ site.baseurl }}/assets/images/pfk-woodbottom.mp4" controls="controls" autoplay muted style="max-width: 730px;"></video> -->
+					<img src="{{ site.baseurl }}/assets/images/Band pic16b.jpg" width="320" alt="Band Photo 16b">
 				</div>
 			</div>
 			<!-- End second slide -->

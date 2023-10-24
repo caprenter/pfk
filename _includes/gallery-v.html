@@ -1,0 +1,61 @@
+<!-- Gallery section start -->
+        <div class="section secondary-section " id="gallery">
+            <div class="triangle"></div>
+            <div class="container">
+                <div class=" title">
+                    <h1>Gig and Band Photos</h1>
+                    <p>Many thanks to those that have taken the following photos. For videos, please see our facebook page (link below)</p>
+                </div>
+                <div id="single-project">
+					
+					{% for item in site.data.gallery.gigs %}
+					<!-- Start details for gallery photo {{item.number}} -->
+                    <div id="slidingDiv{%  if item.number > 0 %}{{item.number}}{% endif %}" class="toggleDiv row-fluid single-project">
+                        <div class="span6">
+                            <img src="{{ site.baseurl }}/assets/images/{{item.video}}" alt="{{item.title}}" />
+                        </div>
+                        <div class="span6">
+                            <div class="project-description">
+                                <div class="project-title clearfix">
+                                    <h3>{{item.title}}</h3>
+                                    <span class="show_hide close">
+                                        <i class="icon-cancel"></i>
+                                    </span>
+                                </div>
+                                <div class="project-info">
+                                    <div>
+                                        <span>When</span>{{item.when}}
+                                    </div>
+                                    <div>
+                                        <span>What</span>{{item.what}}
+                                    </div>
+                                </div>
+                                <p>{{item.description}}</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End details for gallery photo {{item.number}} -->
+                    {% endfor %}
+
+                    
+                    
+                    
+                    <ul id="gallery-grid" class="thumbnails row">
+						{% for item in site.data.gallery.gigs %}
+                        <li class="span4 mix web">
+                            <div class="thumbnail">
+                                <img src="{{ site.baseurl }}/assets/images/gigs/{{ item.photo }}" alt="{{ item.title }}"/>
+                                <a href="#single-project" class="show_hide more" rel="#slidingDiv{%  if item.number > 0 %}{{item.number}}{% endif %}">
+                                    <i class="icon-plus"></i>
+                                </a>
+                                <h3>{{ item.title }}</h3>
+                                <p>{{ item.when }}</p>
+                                <div class="mask"></div>
+                            </div>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- Portfolio section end -->
