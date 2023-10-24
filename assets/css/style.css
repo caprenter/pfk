@@ -898,7 +898,8 @@ p {
     /*Band Member Photos fix */
     .row-fluid .span2 { 
 		width: 17.8%
-	}.newsletter form {
+	}
+    .newsletter form {
         text-align:center;
     }
 }
