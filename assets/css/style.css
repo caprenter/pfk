@@ -840,15 +840,15 @@ p {
 ********************************************************************/
  @media (min-width: 1200px) {
     .thumbnail .more {
-        /* margin-left:-41px; */
-        width:120px;
-        height:120px;
+        margin-left:-41px;
+        width:80px;
+        height:80px;
         border-radius:40px;
         line-height: 80px;
     }
     /*Band Member Photos fix */
     .row-fluid .span2 { 
-		width: 15%; /* was 17.8 */
+		width: 17.8%
 	}
 }
 @media (max-width: 979px) {
@@ -895,7 +895,10 @@ p {
     .thumbnail:hover .more {
         margin-top:-20px;
     }
-    .newsletter form {
+    /*Band Member Photos fix */
+    .row-fluid .span2 { 
+		width: 17.8%
+	}.newsletter form {
         text-align:center;
     }
 }
