@@ -22,3 +22,4 @@ The images will show in the order encountered in file, not number order, so just
 (The numbers don't actually matter as long as they are all different)
 
 Add pictures to the assets/images/gigs directory (on the branch you are working on - or directly on the gh-pages branch)
+Videos can now be added to the assets/video directory, though the new version of the page that uses them for the gallery isn't live yet.
