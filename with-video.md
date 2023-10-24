@@ -32,9 +32,10 @@ layout: default
 				<!-- <a href="#" class="da-link button">Read more</a> -->
 				<div class="da-img">
 					<video controls autoplay muted>
-						<source src="{{ site.baseurl }}/assets/images/pfk-woodbottom.mp3.mp4" type="video/mp4">
+						<source src="{{ site.baseurl }}/assets/images/pfk-woodbottom.mp4" type="video/mp4" id="woodbottom">
 						Video not supported by your browser :-(
 					</video>
+					
 					<!-- <video src="{{ site.baseurl }}/assets/images/pfk-woodbottom.mp4" controls="controls" autoplay muted style="max-width: 730px;"></video> -->
 				</div>
 			</div>
