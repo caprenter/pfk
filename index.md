@@ -74,22 +74,12 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/NewRoxy.jpeg" alt="New Roxy" />
-					</div>
-					<h3>New Roxy</h3>
-					<h4>4 November 2023</h4>
-					<p>Sowerby Bridge</p>
-				</div>
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
 					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/acorneldwick.jpg" alt="Acorn" />
 					</div>
 					<h3>Acorn Inn</h3>
 					<h4>2 December 2023</h4>
 					<p>Eldwick</p>
-				</div> 
+				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
@@ -99,13 +89,22 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					<h3>Central Hall</h3>
 					<h4>15 December 2023</h4>
 					<p>Keighley</p>
+				</div> 
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/GroovePad.jpg" alt="Groove Pad" />
+					</div>
+					<h3>Groove Pad</h3>
+					<h4>3 February 2024</h4>
+					<p>Shipley</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
   
-**4 November 2023** - The New Roxy, Sowerby Bridge  
 **2 December 2023** - Acorn, Eldwick  
 **15 December 2023** - Central Hall, Keighley  
 **3 February 2024** - Groove Pad, Shipley  
@@ -114,6 +113,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 
 ### Recent Gigs
+**November 2023** - The New Roxy, Sowerby Bridge  
 **October 2023** - Central Hall, Keighley  
 **September 2023** - Highfield Hotel, Bradford  
 **June 2023** - OSCA Foundation, Ovenden **&amp;** Caroline St Club, Saltaire  
