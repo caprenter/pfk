@@ -84,11 +84,11 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/CentralHall.jpg" alt="Central Hall" />
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/BradfordBingley.jpg" alt="Bradford & Bingley" />
 					</div>
-					<h3>Central Hall</h3>
-					<h4>15 December 2023</h4>
-					<p>Keighley</p>
+					<h3>Bradford & Bingley Rugby Club</h3>
+					<h4>14 December 2023</h4>
+					<p>Bingley</p>
 				</div> 
 			</div>
 			<div class="span4">
@@ -106,7 +106,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
   
 **2 December 2023** - Acorn, Eldwick  
-**15 December 2023** - Central Hall, Keighley  
+**15 December 2023** - Bradford & Bingley Rugby Club, Bingley  
 **3 February 2024** - Groove Pad, Shipley  
 **6 April 2024** - Groovy Happening, Haworth  
 
