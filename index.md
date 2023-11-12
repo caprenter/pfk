@@ -123,20 +123,4 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **February 2023** - Groovy Happening, Haworth **&amp;** Caroline St Club, Saltaire  
 **December 2022** - Utley Rugby Club, Keighley  
 
-</div>
-			
-
-			<!-- <div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
-						<img class="img-circle" src="images/gig placeholder.png" alt="service 3">
-					</div>
-					<h3>TBA</h3>
-					<h4>TBA</h4>
-		<p>road<br/>town<br/>postcode</p>
-	</div>
-			</div> -->
-		</div>
-	</div>
-</div>
 <!-- Service section end -->
