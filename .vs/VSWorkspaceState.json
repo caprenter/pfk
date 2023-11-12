@@ -1,4 +1,11 @@
 {
-  "ExpandedNodes": [],
+  "ExpandedNodes": [
+    "",
+    "\\assets",
+    "\\assets\\css",
+    "\\_includes",
+    "\\_layouts"
+  ],
+  "SelectedNode": "\\_includes\\about.html",
   "PreviewInSolutionExplorer": false
 }
