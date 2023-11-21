@@ -74,11 +74,11 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/acorneldwick.jpg" alt="Acorn" />
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/BrownCow.jpg" alt="Brown Cow" />
 					</div>
-					<h3>Acorn Inn</h3>
+					<h3>Brown Cow</h3>
 					<h4>2 December 2023</h4>
-					<p>Eldwick</p>
+					<p>Bingley</p>
 				</div>
 			</div>
 			<div class="span4">
@@ -105,7 +105,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div style="text-align: center;" markdown="1">
 
   
-**2 December 2023** - Acorn, Eldwick  
+**2 December 2023** - Brown Cow, Bingley  
 **15 December 2023** - Bradford & Bingley Rugby Club, Bingley  
 **3 February 2024** - Groove Pad, Shipley  
 **6 April 2024** - Groovy Happening, Haworth  
