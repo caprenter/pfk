@@ -74,22 +74,12 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/BrownCow.jpg" alt="Brown Cow" />
-					</div>
-					<h3>Brown Cow</h3>
-					<h4>2 December 2023</h4>
-					<p>Bingley</p>
-				</div>
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
 					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/BradfordBingley.jpg" alt="Bradford & Bingley" />
 					</div>
 					<h3>Bradford & Bingley Rugby Club</h3>
 					<h4>14 December 2023</h4>
 					<p>Bingley</p>
-				</div> 
+				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
@@ -99,13 +89,22 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					<h3>Groove Pad</h3>
 					<h4>3 February 2024</h4>
 					<p>Shipley</p>
+				</div> 
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/GH Logo.jpg" alt="Groovy Happening" />
+					</div>
+					<h3>Groovy Happening</h3>
+					<h4>6 April 2024</h4>
+					<p>Haworth</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
   
-**2 December 2023** - Brown Cow, Bingley  
 **15 December 2023** - Bradford & Bingley Rugby Club, Bingley  
 **3 February 2024** - Groove Pad, Shipley  
 **6 April 2024** - Groovy Happening, Haworth  
@@ -113,6 +112,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 
 ### Recent Gigs
+**December 2023** - Brown Cow, Bingley  
 **November 2023** - The New Roxy, Sowerby Bridge  
 **October 2023** - Central Hall, Keighley  
 **September 2023** - Highfield Hotel, Bradford  
@@ -121,6 +121,5 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **April 2023** - Miller's Bar, Brighouse  
 **March 2023** - New Inn, Wilsden  
 **February 2023** - Groovy Happening, Haworth **&amp;** Caroline St Club, Saltaire  
-**December 2022** - Utley Rugby Club, Keighley  
 
 <!-- Service section end -->
