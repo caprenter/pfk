@@ -105,14 +105,13 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div style="text-align: center;" markdown="1">
 
   
-**15 December 2023** - Bradford & Bingley Rugby Club, Bingley  
 **3 February 2024** - Groove Pad, Shipley  
 **6 April 2024** - Groovy Happening, Haworth  
 
 
 
 ### Recent Gigs
-**December 2023** - Brown Cow, Bingley  
+**December 2023** - Brown Cow, Bingley **&amp;** Bradford & Bingley Rugby Club, Bingley    
 **November 2023** - The New Roxy, Sowerby Bridge  
 **October 2023** - Central Hall, Keighley  
 **September 2023** - Highfield Hotel, Bradford  
