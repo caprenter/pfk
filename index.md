@@ -74,22 +74,12 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/BradfordBingley.jpg" alt="Bradford & Bingley" />
-					</div>
-					<h3>Bradford & Bingley Rugby Club</h3>
-					<h4>14 December 2023</h4>
-					<p>Bingley</p>
-				</div>
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
 					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/GroovePad.jpg" alt="Groove Pad" />
 					</div>
 					<h3>Groove Pad</h3>
 					<h4>3 February 2024</h4>
 					<p>Shipley</p>
-				</div> 
+				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
@@ -99,6 +89,16 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					<h3>Groovy Happening</h3>
 					<h4>6 April 2024</h4>
 					<p>Haworth</p>
+				</div> 
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/Availableforbookings.png" alt="Available" />
+					</div>
+					<h3>Contact us</h3>
+					<h4>2024</h4>
+					<p>Bradford</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
