@@ -74,21 +74,21 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/GroovePad.jpg" alt="Groove Pad" />
-					</div>
-					<h3>Groove Pad</h3>
-					<h4>3 February 2024</h4>
-					<p>Shipley</p>
-				</div>
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
 					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/GH Logo.jpg" alt="Groovy Happening" />
 					</div>
 					<h3>Groovy Happening</h3>
 					<h4>6 April 2024</h4>
 					<p>Haworth</p>
+				</div>
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/StMartin.jpg" alt="St Martin" />
+					</div>
+					<h3>St Martin Des Bois</h3>
+					<h4>July 2024</h4>
+					<p>France</p>
 				</div> 
 			</div>
 			<div class="span4">
@@ -105,12 +105,12 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div style="text-align: center;" markdown="1">
 
   
-**3 February 2024** - Groove Pad, Shipley  
 **6 April 2024** - Groovy Happening, Haworth  
 
 
 
 ### Recent Gigs
+**February 2024** - Groove Pad, Shipley  
 **December 2023** - Brown Cow, Bingley **&amp;** Bradford & Bingley Rugby Club, Bingley    
 **November 2023** - The New Roxy, Sowerby Bridge  
 **October 2023** - Central Hall, Keighley  
@@ -119,6 +119,5 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **May 2023** - Woodbottom WMC, Baildon  
 **April 2023** - Miller's Bar, Brighouse  
 **March 2023** - New Inn, Wilsden  
-**February 2023** - Groovy Happening, Haworth **&amp;** Caroline St Club, Saltaire  
 
 <!-- Service section end -->
