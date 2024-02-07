@@ -838,6 +838,11 @@ p {
 /*
 4 Responsible
 ********************************************************************/
+ /*Band Member Photos fix */
+ .row-fluid .span2 { 
+    width: 22%;
+}
+
  @media (min-width: 1200px) {
     .thumbnail .more {
         margin-left:-41px;
@@ -846,10 +851,7 @@ p {
         border-radius:40px;
         line-height: 80px;
     }
-    /*Band Member Photos fix */
-    .row-fluid .span2 { 
-		width: 15%
-	}
+   
 }
 @media (max-width: 979px) {
     body {
@@ -895,10 +897,6 @@ p {
     .thumbnail:hover .more {
         margin-top:-20px;
     }
-    /*Band Member Photos fix */
-    .row-fluid .span2 { 
-		width: 15%
-	}
     .newsletter form {
         text-align:center;
     }
@@ -913,5 +911,16 @@ p {
     }
     .price-column, .testimonial {
         margin-top:30px;
+    }
+     /*Band Member Photos fix */
+    .row-fluid .span2 { 
+        width: 100%;
+    }
+}
+
+@media (max-width: 576px) {
+    /*Band Member Photos fix */
+    .row-fluid .span2 { 
+        width: 100%;
     }
 }
