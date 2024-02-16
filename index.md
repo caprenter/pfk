@@ -84,21 +84,21 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/StMartin.jpg" alt="St Martin" />
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/new-inn-wilsden.jpg" alt="New Inn" />
 					</div>
-					<h3>St Martin Des Bois</h3>
-					<h4>July 2024</h4>
-					<p>France</p>
+					<h3>New Inn</h3>
+					<h4>22 June 2024</h4>
+					<p>Wilsden</p>
 				</div> 
 			</div>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/Availableforbookings.png" alt="Available" />
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/StMartin.jpg" alt="St Martin" />
 					</div>
-					<h3>Contact us</h3>
-					<h4>2024</h4>
-					<p>Bradford</p>
+					<h3>St Martin Des Bois</h3>
+					<h4>July 2024</h4>
+					<p>France</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
@@ -106,6 +106,8 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
   
 **6 April 2024** - Groovy Happening, Haworth  
+**22 June 2024** - New Inn, Wilsden  
+**July 2024** - St Martin Des Bois, France  
 
 
 
