@@ -84,11 +84,11 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/new-inn-wilsden.jpg" alt="New Inn" />
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/bandstand.jpg" alt="Band Stand" />
 					</div>
-					<h3>New Inn</h3>
-					<h4>22 June 2024</h4>
-					<p>Wilsden</p>
+					<h3>Band stand</h3>
+					<h4>25 May 2024</h4>
+					<p>Bingley</p>
 				</div> 
 			</div>
 			<div class="span4">
@@ -106,7 +106,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
   
 **6 April 2024** - Groovy Happening, Haworth  
-**22 June 2024** - New Inn, Wilsden  
+**25 May 2024** - Band Stand, Bingley  
 **July 2024** - St Martin Des Bois, France  
 
 
