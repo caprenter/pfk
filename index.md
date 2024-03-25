@@ -112,6 +112,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 
 ### Recent Gigs
+**March 2024** - Market Square, Bingley  
 **February 2024** - Groove Pad, Shipley  
 **December 2023** - Brown Cow, Bingley **&amp;** Bradford & Bingley Rugby Club, Bingley    
 **November 2023** - The New Roxy, Sowerby Bridge  
@@ -120,6 +121,5 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **June 2023** - OSCA Foundation, Ovenden **&amp;** Caroline St Club, Saltaire  
 **May 2023** - Woodbottom WMC, Baildon  
 **April 2023** - Miller's Bar, Brighouse  
-**March 2023** - New Inn, Wilsden  
 
 <!-- Service section end -->
