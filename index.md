@@ -108,6 +108,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **6 April 2024** - Groovy Happening, Haworth  
 **25 May 2024** - Band Stand, Bingley  
 **July 2024** - St Martin Des Bois, France  
+**12 December 2024** - People First Christmas Party  
 
 
 
