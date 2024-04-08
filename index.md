@@ -74,22 +74,12 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/GH Logo.jpg" alt="Groovy Happening" />
-					</div>
-					<h3>Groovy Happening</h3>
-					<h4>6 April 2024</h4>
-					<p>Haworth</p>
-				</div>
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
 					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/bandstand.jpg" alt="Band Stand" />
 					</div>
 					<h3>Band stand</h3>
 					<h4>25 May 2024</h4>
 					<p>Bingley</p>
-				</div> 
+				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
@@ -99,16 +89,28 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					<h3>St Martin Des Bois</h3>
 					<h4>July 2024</h4>
 					<p>France</p>
+				</div> 
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Highfield.jpg" alt="Highfield" />
+					</div>
+					<h3>Highfield Hotel</h3>
+					<h4>25 August 2024</h4>
+					<p>Idle</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
   
-**6 April 2024** - Groovy Happening, Haworth  
 **25 May 2024** - Band Stand, Bingley  
 **July 2024** - St Martin Des Bois, France  
+**25 August 2024** - Highfield Hotel, Idle  
+**5 October 2024** - Groovy Happening, Haworth  
 **12 December 2024** - People First Christmas Party  
+**5 April 2025** - Groovy Happening, Haworth  
 
 
 
