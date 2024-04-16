@@ -109,6 +109,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **July 2024** - St Martin Des Bois, France  
 **25 August 2024** - Highfield Hotel, Idle  
 **5 October 2024** - Groovy Happening, Haworth  
+**12 October 2024** - Highfield Hotel, Idle  
 **12 December 2024** - People First Christmas Party  
 **5 April 2025** - Groovy Happening, Haworth  
 
