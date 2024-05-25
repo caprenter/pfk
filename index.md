@@ -74,22 +74,12 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/bandstand.jpg" alt="Band Stand" />
-					</div>
-					<h3>Band stand</h3>
-					<h4>25 May 2024</h4>
-					<p>Bingley</p>
-				</div>
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
 					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/StMartin.jpg" alt="St Martin" />
 					</div>
 					<h3>St Martin Des Bois</h3>
 					<h4>July 2024</h4>
 					<p>France</p>
-				</div> 
+				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
@@ -99,13 +89,22 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					<h3>Highfield Hotel</h3>
 					<h4>25 August 2024</h4>
 					<p>Idle</p>
+				</div> 
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/GroovyHappening.jpg" alt="Groovy Happening" />
+					</div>
+					<h3>Groovy Happening</h3>
+					<h4>5 October 2024</h4>
+					<p>Haworth</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
   
-**25 May 2024** - Band Stand, Bingley  
 **July 2024** - St Martin Des Bois, France  
 **25 August 2024** - Highfield Hotel, Idle  
 **5 October 2024** - Groovy Happening, Haworth  
@@ -116,6 +115,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 
 ### Recent Gigs
+**May 2024** - Bradford & Bingley Rugby Club, Bingley  
 **March 2024** - Market Square, Bingley  
 **February 2024** - Groove Pad, Shipley  
 **December 2023** - Brown Cow, Bingley **&amp;** Bradford & Bingley Rugby Club, Bingley    
@@ -123,7 +123,5 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **October 2023** - Central Hall, Keighley  
 **September 2023** - Highfield Hotel, Bradford  
 **June 2023** - OSCA Foundation, Ovenden **&amp;** Caroline St Club, Saltaire  
-**May 2023** - Woodbottom WMC, Baildon  
-**April 2023** - Miller's Bar, Brighouse  
 
 <!-- Service section end -->
