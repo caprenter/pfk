@@ -74,11 +74,11 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/StMartin.jpg" alt="St Martin" />
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/caroline-street.jpg" alt="Caroline St Club" />
 					</div>
-					<h3>St Martin Des Bois</h3>
-					<h4>July 2024</h4>
-					<p>France</p>
+					<h3>Caroline St Club</h3>
+					<h4>27 July 2024</h4>
+					<p>Saltaire</p>
 				</div>
 			</div>
 			<div class="span4">
@@ -105,7 +105,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div style="text-align: center;" markdown="1">
 
   
-**July 2024** - St Martin Des Bois, France  
+**27 July 2024** - Caroline St Club, Saltaire  
 **25 August 2024** - Highfield Hotel, Idle  
 **5 October 2024** - Groovy Happening, Haworth  
 **12 October 2024** - Highfield Hotel, Idle  
