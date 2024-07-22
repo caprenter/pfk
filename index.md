@@ -109,7 +109,9 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **25 August 2024** - Highfield Hotel, Idle  
 **5 October 2024** - Groovy Happening, Haworth  
 **12 October 2024** - Highfield Hotel, Idle  
+**16 November 2024** - Brown Cow, Bingley  
 **12 December 2024** - People First Christmas Party  
+**11 January 2025** - Grayston Unity, Halifax  
 **5 April 2025** - Groovy Happening, Haworth  
 
 
@@ -122,6 +124,5 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **November 2023** - The New Roxy, Sowerby Bridge  
 **October 2023** - Central Hall, Keighley  
 **September 2023** - Highfield Hotel, Bradford  
-**June 2023** - OSCA Foundation, Ovenden **&amp;** Caroline St Club, Saltaire  
 
 <!-- Service section end -->
