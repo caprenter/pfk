@@ -17,7 +17,7 @@ layout: default
 			<div class="da-slide">
 				<h2 class="fittext2">Playing For Kicks</h2>
 				<h4>Classic Covers</h4>
-				<p>Playing for Kicks play songs you know and love from ELO to Divine Comedy and The Killers to Earth Wind and Fire. There's something for everyone and you're sure to have a great night.</p>
+				<p>Playing for Kicks play songs you know and love from ELO to Divine Comedy and The Killers to Pulp. There's something for everyone and you're sure to have a great night.</p>
 				<!-- <a href="#" class="da-link button">Read more</a> -->
 				<div class="da-img">
 					<img src="{{ site.baseurl }}/assets/images/gigs/PFK Band Pic 231.jpg" alt="Caroline St" width="320">
@@ -28,7 +28,7 @@ layout: default
 			<div class="da-slide">
 			<h2>Playing For Kicks</h2>
 				<h4>Songs For Everybody</h4>
-				<p>Tina Turner, Style Council, Queen, Madness, Police, The Feeling and many more...</p>
+				<p>Tina Turner, Beautiful South, Queen, Madness, Police, The Feeling and many more...</p>
 				<!-- <a href="#" class="da-link button">Read more</a> -->
 				<div class="da-img">
 					<img src="{{ site.baseurl }}/assets/images/Band pic16b.jpg" width="320" alt="Band Photo 16b">
@@ -74,22 +74,12 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/caroline-street.jpg" alt="Caroline St Club" />
-					</div>
-					<h3>Caroline St Club</h3>
-					<h4>27 July 2024</h4>
-					<p>Saltaire</p>
-				</div>
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
 					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/highfield.jpg" alt="Highfield" />
 					</div>
 					<h3>Highfield Hotel</h3>
 					<h4>25 August 2024</h4>
 					<p>Idle</p>
-				</div> 
+				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
@@ -99,13 +89,22 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					<h3>Groovy Happening</h3>
 					<h4>5 October 2024</h4>
 					<p>Haworth</p>
+				</div> 
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/highfield.jpg" alt="Highfield" />
+					</div>
+					<h3>Highfield Hotel</h3>
+					<h4>12 October 2024</h4>
+					<p>Idle</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
   
-**27 July 2024** - Caroline St Club, Saltaire  
 **25 August 2024** - Highfield Hotel, Idle  
 **5 October 2024** - Groovy Happening, Haworth  
 **12 October 2024** - Highfield Hotel, Idle  
@@ -117,6 +116,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 
 ### Recent Gigs
+**July 2024** - Caroline St Club, Saltaire  
 **May 2024** - Bradford & Bingley Rugby Club, Bingley  
 **March 2024** - Market Square, Bingley  
 **February 2024** - Groove Pad, Shipley  
