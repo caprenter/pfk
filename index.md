@@ -74,22 +74,12 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/highfield.jpg" alt="Highfield" />
-					</div>
-					<h3>Highfield Hotel</h3>
-					<h4>25 August 2024</h4>
-					<p>Idle</p>
-				</div>
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
 					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/GH Logo.jpg" alt="Groovy Happening" />
 					</div>
 					<h3>Groovy Happening</h3>
 					<h4>5 October 2024</h4>
 					<p>Haworth</p>
-				</div> 
+				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
@@ -99,13 +89,22 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					<h3>Highfield Hotel</h3>
 					<h4>12 October 2024</h4>
 					<p>Idle</p>
+				</div> 
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/BrownCow.jpg" alt="Brown Cow" />
+					</div>
+					<h3>Brown Cow</h3>
+					<h4>16 November 2024</h4>
+					<p>Bingley</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
   
-**25 August 2024** - Highfield Hotel, Idle  
 **5 October 2024** - Groovy Happening, Haworth  
 **12 October 2024** - Highfield Hotel, Idle  
 **16 November 2024** - Brown Cow, Bingley  
@@ -116,6 +115,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 
 ### Recent Gigs
+**August 2024** - Highfield Hotel, Idle  
 **July 2024** - Caroline St Club, Saltaire  
 **May 2024** - Bradford & Bingley Rugby Club, Bingley  
 **March 2024** - Market Square, Bingley  
