@@ -43,7 +43,7 @@ layout: default
 gigs to check us out, and/or contact us to check our availability.</p>
 				<a href="#contact" class="da-link button">Contact us</a>
 				<div class="da-img">
-					<img src="{{ site.baseurl }}/assets/images/Band pic17.jpg" width="320" alt="Band photo 17">
+					<img src="{{ site.baseurl }}/assets/images/Band pic 25.jpg" width="320" alt="Highfield">
 				</div>
 			</div>
 			<!-- End third slide -->
