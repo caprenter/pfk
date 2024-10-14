@@ -31,7 +31,7 @@ layout: default
 				<p>Tina Turner, Beautiful South, Queen, Madness, Police, The Feeling and many more...</p>
 				<!-- <a href="#" class="da-link button">Read more</a> -->
 				<div class="da-img">
-					<img src="{{ site.baseurl }}/assets/images/PFK30.jpg" width="320" alt="Band Photo Highfield">
+					<img src="{{ site.baseurl }}/assets/images/venues/PFK30.jpg" width="320" alt="Band Photo Highfield">
 				</div>
 			</div>
 			<!-- End second slide -->
