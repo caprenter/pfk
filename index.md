@@ -74,22 +74,12 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/BrownCow.jpg" alt="Brown Cow" />
-					</div>
-					<h3>Brown Cow</h3>
-					<h4>16 November 2024</h4>
-					<p>Bingley</p>
-				</div>
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
 					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/JamShack.jpg" alt="Jam Shack" />
 					</div>
 					<h3>Jam Shack, Piece Hall</h3>
 					<h4>7 December 2024</h4>
 					<p>Halifax</p>
-				</div> 
+				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
@@ -99,6 +89,16 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					<h3>People First</h3>
 					<h4>12 December 2024</h4>
 					<p>Bingley</p>
+				</div> 
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/GraystonUnity.jpg" alt="Grayston Unity" />
+					</div>
+					<h3>Grayston Unity</h3>
+					<h4>11 January 2025</h4>
+					<p>Halifax</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
@@ -114,6 +114,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 
 ### Recent Gigs
+**November 2024** - Brown Cow, Bingley  
 **October 2024** - Groovy Happening, Haworth **&amp;** Highfield Hotel, Idle  
 **August 2024** - Highfield Hotel, Idle  
 **July 2024** - Caroline St Club, Saltaire  
@@ -121,6 +122,5 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **March 2024** - Market Square, Bingley  
 **February 2024** - Groove Pad, Shipley  
 **December 2023** - Brown Cow, Bingley **&amp;** Bradford & Bingley Rugby Club, Bingley    
-**November 2023** - The New Roxy, Sowerby Bridge  
 
 <!-- Service section end -->
