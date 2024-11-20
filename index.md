@@ -105,10 +105,10 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div style="text-align: center;" markdown="1">
 
   
-**16 November 2024** - Brown Cow, Bingley  
 **7 December 2024** - Jam Shack, Piece Hall, Halifax  
 **12 December 2024** - People First Christmas Party  
 **11 January 2025** - Grayston Unity, Halifax  
+**8 March 2025** - New Inn, Wilsden  
 **5 April 2025** - Groovy Happening, Haworth  
 
 
