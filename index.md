@@ -74,26 +74,6 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/JamShack.jpg" alt="Jam Shack" />
-					</div>
-					<h3>Jam Shack, Piece Hall</h3>
-					<h4>7 December 2024</h4>
-					<p>Halifax</p>
-				</div>
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/PeopleFirst.jpg" alt="People First" />
-					</div>
-					<h3>People First</h3>
-					<h4>12 December 2024</h4>
-					<p>Bingley</p>
-				</div> 
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
 					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/GraystonUnity.jpg" alt="Grayston Unity" />
 					</div>
 					<h3>Grayston Unity</h3>
@@ -101,12 +81,30 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					<p>Halifax</p>
 				</div>
 			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/new-inn-wilsden.jpg" alt="New Inn" />
+					</div>
+					<h3>New Inn</h3>
+					<h4>8 March 2025</h4>
+					<p>Wilsden</p>
+				</div> 
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/GH Logo.jpg" alt="Groovy Happening" />
+					</div>
+					<h3>Groovy Happening</h3>
+					<h4>5 April 2025</h4>
+					<p>Haworth</p>
+				</div>
+			</div>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
   
-**7 December 2024** - Jam Shack, Piece Hall, Halifax  
-**12 December 2024** - People First Christmas Party  
 **11 January 2025** - Grayston Unity, Halifax  
 **8 March 2025** - New Inn, Wilsden  
 **5 April 2025** - Groovy Happening, Haworth  
@@ -114,6 +112,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 
 ### Recent Gigs
+**December 2024** - People First Christmas Party  
 **November 2024** - Brown Cow, Bingley  
 **October 2024** - Groovy Happening, Haworth **&amp;** Highfield Hotel, Idle  
 **August 2024** - Highfield Hotel, Idle  
@@ -121,6 +120,5 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **May 2024** - Bradford & Bingley Rugby Club, Bingley  
 **March 2024** - Market Square, Bingley  
 **February 2024** - Groove Pad, Shipley  
-**December 2023** - Brown Cow, Bingley **&amp;** Bradford & Bingley Rugby Club, Bingley    
 
 <!-- Service section end -->
