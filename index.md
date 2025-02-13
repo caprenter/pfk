@@ -108,6 +108,8 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **8 March 2025** - New Inn, Wilsden  
 **29 March 2025** - Engine Room, Bingley  
 **5 April 2025** - Groovy Happening, Haworth  
+**10 May 2025** - Ryshworth Club, Crossflatts  
+**2 August 2025** - Myrtle Park Bandstand, Bingley  
 
 
 
