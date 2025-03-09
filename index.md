@@ -17,7 +17,7 @@ layout: default
 			<div class="da-slide">
 				<h2 class="fittext2">Playing For Kicks</h2>
 				<h4>Classic Covers</h4>
-				<p>Playing for Kicks play songs you know and love from ELO to Divine Comedy and The Killers to Pulp. There's something for everyone and you're sure to have a great night.</p>
+				<p>Playing for Kicks play songs you know and love from Eurythmics to Divine Comedy and The Killers to Pulp. There's something for everyone and you're sure to have a great night.</p>
 				<!-- <a href="#" class="da-link button">Read more</a> -->
 				<div class="da-img">
 					<img src="{{ site.baseurl }}/assets/images/gigs/PFK Band Pic 231.jpg" alt="Caroline St" width="320">
@@ -28,7 +28,7 @@ layout: default
 			<div class="da-slide">
 			<h2>Playing For Kicks</h2>
 				<h4>Songs For Everybody</h4>
-				<p>Tina Turner, Beautiful South, Queen, Madness, Police, The Feeling and many more...</p>
+				<p>Pointer Sisters, Blondie, Queen, Madness, Police, The Feeling and many more...</p>
 				<!-- <a href="#" class="da-link button">Read more</a> -->
 				<div class="da-img">
 					<img src="{{ site.baseurl }}/assets/images/venues/PFK30.jpg" width="320" alt="Band Photo Highfield">
@@ -74,22 +74,12 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/new-inn-wilsden.jpg" alt="New Inn" />
-					</div>
-					<h3>New Inn</h3>
-					<h4>8 March 2025</h4>
-					<p>Wilsden</p>
-				</div>
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
 					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/EngineRoom.jpg" alt="Engine Room" />
 					</div>
 					<h3>Engine Room</h3>
 					<h4>29 March 2025</h4>
 					<p>Bingley</p>
-				</div> 
+				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
@@ -99,13 +89,22 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					<h3>Groovy Happening</h3>
 					<h4>5 April 2025</h4>
 					<p>Haworth</p>
+				</div> 
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/RyshworthClub.jpg" alt="Ryshworth Club" />
+					</div>
+					<h3>Ryshworth Club</h3>
+					<h4>10 May 2025</h4>
+					<p>Crossflatts</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
   
-**8 March 2025** - New Inn, Wilsden  
 **29 March 2025** - Engine Room, Bingley  
 **5 April 2025** - Groovy Happening, Haworth  
 **10 May 2025** - Ryshworth Club, Crossflatts  
@@ -114,6 +113,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 
 ### Recent Gigs
+**March 2025** - New Inn, Wilsden  
 **January 2025** - Grayston Unity, Halifax  
 **December 2024** - People First Christmas Party  
 **November 2024** - Brown Cow, Bingley  
@@ -121,7 +121,5 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **August 2024** - Highfield Hotel, Idle  
 **July 2024** - Caroline St Club, Saltaire  
 **May 2024** - Bradford & Bingley Rugby Club, Bingley  
-**March 2024** - Market Square, Bingley  
-**February 2024** - Groove Pad, Shipley  
 
 <!-- Service section end -->
