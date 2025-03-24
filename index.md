@@ -108,7 +108,9 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **29 March 2025** - Engine Room, Bingley  
 **5 April 2025** - Groovy Happening, Haworth  
 **10 May 2025** - Ryshworth Club, Crossflatts  
+**24 May 2025** - Jam Shack, Piece Hall, Halifax  
 **2 August 2025** - Myrtle Park Bandstand, Bingley  
+**4 October 2025** - Black Horse, Otley  
 
 
 
