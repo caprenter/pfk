@@ -74,22 +74,12 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/GH Logo.jpg" alt="Groovy Happening" />
-					</div>
-					<h3>Groovy Happening</h3>
-					<h4>5 April 2025</h4>
-					<p>Haworth</p>
-				</div>
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
 					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/RyshworthClub.jpg" alt="Ryshworth Club" />
 					</div>
 					<h3>Ryshworth Club</h3>
 					<h4>10 May 2025</h4>
 					<p>Crossflatts</p>
-				</div> 
+				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
@@ -99,21 +89,32 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					<h3>Jam Shack</h3>
 					<h4>24 May 2025</h4>
 					<p>Piece Hall, Halifax</p>
+				</div> 
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Bandstand.jpg" alt="Myrtle Park" />
+					</div>
+					<h3>Myrtle Park</h3>
+					<h4>2 August 2025</h4>
+					<p>Bingley</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
   
-**5 April 2025** - Groovy Happening, Haworth  
 **10 May 2025** - Ryshworth Club, Crossflatts  
 **24 May 2025** - Jam Shack, Piece Hall, Halifax  
 **2 August 2025** - Myrtle Park Bandstand, Bingley  
+**24 August 2025** - Highfield Hotel, Idle  
 **3 October 2025** - Black Horse, Otley  
 
 
 
 ### Recent Gigs
+**April 2025** - Groovy Happening, Haworth  
 **March 2025** - Engine Room, Bingley  
 **March 2025** - New Inn, Wilsden  
 **January 2025** - Grayston Unity, Halifax  
