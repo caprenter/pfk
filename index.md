@@ -94,11 +94,11 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Bandstand.jpg" alt="Myrtle Park" />
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/TheBeacon.jpg" alt="The Beacon" />
 					</div>
-					<h3>Myrtle Park</h3>
-					<h4>2 August 2025</h4>
-					<p>Bingley</p>
+					<h3>Cliffe Castle</h3>
+					<h4>14 July 2025</h4>
+					<p>Keighley</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
@@ -107,6 +107,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
   
 **10 May 2025** - Ryshworth Club, Crossflatts  
 **24 May 2025** - Jam Shack, Piece Hall, Halifax  
+**14 July 2025** - The Beacon, Cliffe Castle, Keighley  
 **2 August 2025** - Myrtle Park Bandstand, Bingley  
 **24 August 2025** - Highfield Hotel, Idle  
 **3 October 2025** - Black Horse, Otley  
@@ -124,6 +125,5 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **October 2024** - Groovy Happening, Haworth **&amp;** Highfield Hotel, Idle  
 **August 2024** - Highfield Hotel, Idle  
 **July 2024** - Caroline St Club, Saltaire  
-**May 2024** - Bradford & Bingley Rugby Club, Bingley  
 
 <!-- Service section end -->
