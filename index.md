@@ -94,7 +94,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/TheBeacon.jpg" alt="The Beacon" />
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/CliffeCastle.jpg" alt="The Beacon" />
 					</div>
 					<h3>Cliffe Castle</h3>
 					<h4>14 July 2025</h4>
