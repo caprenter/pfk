@@ -1,26 +1,26 @@
 gigs:
 
 - number: 0
+  title: "Ryshworth with Sheds"
+  photo: "PFK Band Pic 260.jpg"
+  video: "no"
+  when: "May 2025"
+  what: "A mash up between PFK and Shed Planners Open Mic"
+  description: "Playing For Kicks welcomed old friends from the former Shed Planners Open Mic night, who joined us on stage through the evening. What a blast!"
+
+- number: 1
   title: "Highfield Minifest"
   photo: "PFK Band Pic 250.jpg"
   video: "no"
   when: "August 2024"
   what: "The Highfield's annual minifest in aid of Martin House"
   description: "This was the first year we've all been available for the minifest and the wind and rain couldn't stop us! What a blast!"
-
-- number: 1
+  
+- number: 2
   title: "Brown Cow"
   photo: "PFK Band Pic 240.jpg"
   video: "no"
   when: "December 2023"
   what: "The Brown Cow in Bingley in full party mode"
   description: "Our return to the Brown Cow after several years, and it really went with a bang. Dancing from the first song to the last! Brilliant!!"
-  
-- number: 2
-  title: "Caroline St Club"
-  photo: "PFK Band Pic 232.jpg"
-  video: "no"
-  when: "June 2023"
-  what: "One of our regular private parties for our favourite charity"
-  description: "As always with People First, we had a fantastic night, and were also lucky enough to have the help of Bingley Camera Club taking photos."
 
