@@ -74,22 +74,12 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/RyshworthClub.jpg" alt="Ryshworth Club" />
-					</div>
-					<h3>Ryshworth Club</h3>
-					<h4>10 May 2025</h4>
-					<p>Crossflatts</p>
-				</div>
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
 					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/JamShack.jpg" alt="Jam Shack" />
 					</div>
 					<h3>Jam Shack</h3>
 					<h4>24 May 2025</h4>
 					<p>Piece Hall, Halifax</p>
-				</div> 
+				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
@@ -99,13 +89,22 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					<h3>Cliffe Castle</h3>
 					<h4>14 July 2025</h4>
 					<p>Keighley</p>
+				</div> 
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Bandstand.jpg" alt="Myrtle Park Bandstand" />
+					</div>
+					<h3>Bandstand, Myrtle Park</h3>
+					<h4>2 August 2025</h4>
+					<p>Bingley</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
   
-**10 May 2025** - Ryshworth Club, Crossflatts  
 **24 May 2025** - Jam Shack, Piece Hall, Halifax  
 **14 July 2025** - The Beacon, Cliffe Castle, Keighley  
 **2 August 2025** - Myrtle Park Bandstand, Bingley  
@@ -116,9 +115,9 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 
 ### Recent Gigs
+**May 2025** - Ryshworth Club, Crossflatts  
 **April 2025** - Groovy Happening, Haworth  
-**March 2025** - Engine Room, Bingley  
-**March 2025** - New Inn, Wilsden  
+**March 2025** - Engine Room, Bingley **&amp;** New Inn, Wilsden  
 **January 2025** - Grayston Unity, Halifax  
 **December 2024** - People First Christmas Party  
 **November 2024** - Brown Cow, Bingley  
