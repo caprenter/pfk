@@ -108,6 +108,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **14 July 2025** - The Beacon, Cliffe Castle, Keighley  
 **2 August 2025** - Myrtle Park Bandstand, Bingley  
 **24 August 2025** - Highfield Hotel, Idle  
+**28 August 2025** - The Beacon, Lister Park, Bradford  
 **3 October 2025** - Black Horse, Otley  
 **7 March 2026** - Groovy Happening, Haworth  
 
