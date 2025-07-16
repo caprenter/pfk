@@ -74,22 +74,12 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/CliffeCastle.jpg" alt="The Beacon" />
-					</div>
-					<h3>Cliffe Castle</h3>
-					<h4>14 July 2025</h4>
-					<p>Keighley</p>
-				</div>
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
 					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Bandstand.jpg" alt="Myrtle Park Bandstand" />
 					</div>
 					<h3>Bandstand, Myrtle Park</h3>
 					<h4>2 August 2025</h4>
 					<p>Bingley</p>
-				</div> 
+				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
@@ -99,13 +89,22 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					<h3>Highfield</h3>
 					<h4>24 August 2025</h4>
 					<p>Idle</p>
+				</div> 
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/ListerPark.jpg" alt="Lister Park" />
+					</div>
+					<h3>The Beacon</h3>
+					<h4>28 August 2025</h4>
+					<p>Lister Park</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
   
-**14 July 2025** - The Beacon, Cliffe Castle, Keighley  
 **2 August 2025** - Myrtle Park Bandstand, Bingley  
 **24 August 2025** - Highfield Hotel, Idle  
 **28 August 2025** - The Beacon, Lister Park, Bradford  
@@ -115,6 +114,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 
 ### Recent Gigs
+**July 2025** - The Beacon, Cliffe Castle, Keighley  
 **May 2025** - Ryshworth Club, Crossflatts **&amp;** Jam Shack, Piece Hall, Halifax  
 **April 2025** - Groovy Happening, Haworth  
 **March 2025** - Engine Room, Bingley **&amp;** New Inn, Wilsden  
@@ -123,6 +123,5 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **November 2024** - Brown Cow, Bingley  
 **October 2024** - Groovy Happening, Haworth **&amp;** Highfield Hotel, Idle  
 **August 2024** - Highfield Hotel, Idle  
-**July 2024** - Caroline St Club, Saltaire  
 
 <!-- Service section end -->
