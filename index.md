@@ -74,22 +74,12 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Bandstand.jpg" alt="Myrtle Park Bandstand" />
-					</div>
-					<h3>Bandstand, Myrtle Park</h3>
-					<h4>2 August 2025</h4>
-					<p>Bingley</p>
-				</div>
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
 					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/highfield.jpg" alt="Highfield" />
 					</div>
 					<h3>Highfield</h3>
 					<h4>24 August 2025</h4>
 					<p>Idle</p>
-				</div> 
+				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
@@ -99,13 +89,22 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					<h3>The Beacon</h3>
 					<h4>28 August 2025</h4>
 					<p>Lister Park</p>
+				</div> 
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/BlackHorse.jpg" alt="Black Horse" />
+					</div>
+					<h3>Black Horse</h3>
+					<h4>3 October 2025</h4>
+					<p>Otley</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
   
-**2 August 2025** - Myrtle Park Bandstand, Bingley  
 **24 August 2025** - Highfield Hotel, Idle  
 **28 August 2025** - The Beacon, Lister Park, Bradford  
 **3 October 2025** - Black Horse, Otley  
@@ -114,6 +113,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 
 ### Recent Gigs
+**August 2025** - Myrtle Park Bandstand, Bingley  
 **July 2025** - The Beacon, Cliffe Castle, Keighley  
 **May 2025** - Ryshworth Club, Crossflatts **&amp;** Jam Shack, Piece Hall, Halifax  
 **April 2025** - Groovy Happening, Haworth  
