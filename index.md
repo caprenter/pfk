@@ -74,27 +74,27 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/ListerPark.jpg" alt="Lister Park" />
-					</div>
-					<h3>The Beacon</h3>
-					<h4>28 August 2025</h4>
-					<p>Lister Park</p>
-				</div>
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
 					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/BlackHorse.jpg" alt="Black Horse" />
 					</div>
 					<h3>Black Horse</h3>
 					<h4>3 October 2025</h4>
 					<p>Otley</p>
+				</div>
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/GH Logo.jpg" alt="Groovy Happening" />
+					</div>
+					<h3>Groovy Happening</h3>
+					<h4>7 March 2026</h4>
+					<p>Haworth</p>
 				</div> 
 			</div>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/logo.png" alt="Logo" />
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/Availableforbookings.png" alt="Logo" />
 					</div>
 					<h3>Available for bookings</h3>
 					<h4>2025/2026</h4>
@@ -112,7 +112,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 
 ### Recent Gigs
-**August 2025** - Myrtle Park Bandstand, Bingley **&amp;**  Highfield Hotel, Idle  
+**August 2025** - Myrtle Park Bandstand, Bingley **&amp;**  Highfield Hotel, Idle **&amp;**  The Beacon, Lister Park    
 **July 2025** - The Beacon, Cliffe Castle, Keighley  
 **May 2025** - Ryshworth Club, Crossflatts **&amp;** Jam Shack, Piece Hall, Halifax  
 **April 2025** - Groovy Happening, Haworth  
@@ -121,6 +121,5 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **December 2024** - People First Christmas Party  
 **November 2024** - Brown Cow, Bingley  
 **October 2024** - Groovy Happening, Haworth **&amp;** Highfield Hotel, Idle  
-**August 2024** - Highfield Hotel, Idle  
 
 <!-- Service section end -->
