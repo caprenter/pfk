@@ -105,13 +105,12 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div style="text-align: center;" markdown="1">
 
   
-**28 August 2025** - The Beacon, Lister Park, Bradford  
-**3 October 2025** - Black Horse, Otley  
 **7 March 2026** - Groovy Happening, Haworth  
 
 
 
 ### Recent Gigs
+**October 2025** - Black Horse, Otley  
 **August 2025** - Myrtle Park Bandstand, Bingley **&amp;**  Highfield Hotel, Idle **&amp;**  The Beacon, Lister Park    
 **July 2025** - The Beacon, Cliffe Castle, Keighley  
 **May 2025** - Ryshworth Club, Crossflatts **&amp;** Jam Shack, Piece Hall, Halifax  
@@ -120,6 +119,5 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **January 2025** - Grayston Unity, Halifax  
 **December 2024** - People First Christmas Party  
 **November 2024** - Brown Cow, Bingley  
-**October 2024** - Groovy Happening, Haworth **&amp;** Highfield Hotel, Idle  
 
 <!-- Service section end -->
