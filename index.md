@@ -74,11 +74,11 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/BlackHorse.jpg" alt="Black Horse" />
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/NewInn.jpg" alt="New Inn" />
 					</div>
-					<h3>Black Horse</h3>
-					<h4>3 October 2025</h4>
-					<p>Otley</p>
+					<h3>New Inn</h3>
+					<h4>7 February 2026</h4>
+					<p>Wilsden</p>
 				</div>
 			</div>
 			<div class="span4">
@@ -105,6 +105,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div style="text-align: center;" markdown="1">
 
   
+**7 February 2026** - New Inn, Wilsden  
 **7 March 2026** - Groovy Happening, Haworth  
 
 
