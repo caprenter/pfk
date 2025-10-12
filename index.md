@@ -74,12 +74,22 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/speakeasy.jpg" alt="Speakeasy" />
+					</div>
+					<h3>Speakeasy</h3>
+					<h4>10 January 2026</h4>
+					<p>Skipton</p>
+				</div>
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
 					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/new-inn-wilsden.jpg" alt="New Inn" />
 					</div>
 					<h3>New Inn</h3>
 					<h4>7 February 2026</h4>
 					<p>Wilsden</p>
-				</div>
+				</div> 
 			</div>
 			<div class="span4">
 				<div class="centered service">
@@ -89,16 +99,6 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					<h3>Groovy Happening</h3>
 					<h4>7 March 2026</h4>
 					<p>Haworth</p>
-				</div> 
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/Availableforbookings.png" alt="Logo" />
-					</div>
-					<h3>Available for bookings</h3>
-					<h4>2025/2026</h4>
-					<p>Your party</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
