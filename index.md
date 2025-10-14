@@ -74,12 +74,22 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/highfield.jpg" alt="Highfield" />
+					</div>
+					<h3>Highfield Hotel</h3>
+					<h4>22 November 2025</h4>
+					<p>Idle, Bradford</p>
+				</div>
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
 					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Speakeasy.jpg" alt="Speakeasy" />
 					</div>
 					<h3>Speakeasy</h3>
 					<h4>10 January 2026</h4>
 					<p>Skipton</p>
-				</div>
+				</div> 
 			</div>
 			<div class="span4">
 				<div class="centered service">
@@ -89,22 +99,13 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					<h3>New Inn</h3>
 					<h4>7 February 2026</h4>
 					<p>Wilsden</p>
-				</div> 
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/GH Logo.jpg" alt="Groovy Happening" />
-					</div>
-					<h3>Groovy Happening</h3>
-					<h4>7 March 2026</h4>
-					<p>Haworth</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
   
+**22 November 2025** - Highfield Hotel, Bradford  
 **10 January 2026** - Speakeasy, Skipton  
 **7 February 2026** - New Inn, Wilsden  
 **7 March 2026** - Groovy Happening, Haworth  
