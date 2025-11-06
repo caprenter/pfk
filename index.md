@@ -109,6 +109,8 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **10 January 2026** - Speakeasy, Skipton  
 **7 February 2026** - New Inn, Wilsden  
 **7 March 2026** - Groovy Happening, Haworth  
+**14 November 2026** - Private Party  
+**12 December 2026** - Private Party  
 
 ### Recent Gigs
 **October 2025** - Black Horse, Otley  
