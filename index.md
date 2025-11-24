@@ -74,22 +74,12 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/highfield.jpg" alt="Highfield" />
-					</div>
-					<h3>Highfield Hotel</h3>
-					<h4>22 November 2025</h4>
-					<p>Idle, Bradford</p>
-				</div>
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
 					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Speakeasy.jpg" alt="Speakeasy" />
 					</div>
 					<h3>Speakeasy</h3>
 					<h4>10 January 2026</h4>
 					<p>Skipton</p>
-				</div> 
+				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
@@ -99,13 +89,22 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					<h3>New Inn</h3>
 					<h4>7 February 2026</h4>
 					<p>Wilsden</p>
+				</div> 
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Availableforbookings.png" alt="Available" />
+					</div>
+					<h3>Book us</h3>
+					<h4>2026</h4>
+					<p>Somewhere</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
   
-**22 November 2025** - Highfield Hotel, Bradford  
 **10 January 2026** - Speakeasy, Skipton  
 **7 February 2026** - New Inn, Wilsden  
 **7 March 2026** - Groovy Happening, Haworth  
@@ -113,6 +112,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **12 December 2026** - Private Party  
 
 ### Recent Gigs
+**November 2025** - Highfield Hotel, Bradford  
 **October 2025** - Black Horse, Otley  
 **August 2025** - Myrtle Park Bandstand, Bingley **&amp;**  Highfield Hotel, Idle **&amp;**  The Beacon, Lister Park    
 **July 2025** - The Beacon, Cliffe Castle, Keighley  
@@ -120,7 +120,5 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **April 2025** - Groovy Happening, Haworth  
 **March 2025** - Engine Room, Bingley **&amp;** New Inn, Wilsden  
 **January 2025** - Grayston Unity, Halifax  
-**December 2024** - People First Christmas Party  
-**November 2024** - Brown Cow, Bingley  
 
 <!-- Service section end -->
