@@ -74,21 +74,21 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Speakeasy.jpg" alt="Speakeasy" />
-					</div>
-					<h3>Speakeasy</h3>
-					<h4>10 January 2026</h4>
-					<p>Skipton</p>
-				</div>
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
 					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/new-inn-wilsden.jpg" alt="New Inn" />
 					</div>
 					<h3>New Inn</h3>
 					<h4>7 February 2026</h4>
 					<p>Wilsden</p>
+				</div>
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/GH logo.jpg" alt="Groovy Happening" />
+					</div>
+					<h3>Groovy Happening</h3>
+					<h4>7 March 2026</h4>
+					<p>Haworth</p>
 				</div> 
 			</div>
 			<div class="span4">
@@ -105,13 +105,13 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div style="text-align: center;" markdown="1">
 
   
-**10 January 2026** - Speakeasy, Skipton  
 **7 February 2026** - New Inn, Wilsden  
 **7 March 2026** - Groovy Happening, Haworth  
 **14 November 2026** - Private Party  
 **12 December 2026** - Private Party  
 
 ### Recent Gigs
+**January 2026** - Speakeasy, Skipton  
 **November 2025** - Highfield Hotel, Bradford  
 **October 2025** - Black Horse, Otley  
 **August 2025** - Myrtle Park Bandstand, Bingley **&amp;**  Highfield Hotel, Idle **&amp;**  The Beacon, Lister Park    
@@ -119,6 +119,5 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **May 2025** - Ryshworth Club, Crossflatts **&amp;** Jam Shack, Piece Hall, Halifax  
 **April 2025** - Groovy Happening, Haworth  
 **March 2025** - Engine Room, Bingley **&amp;** New Inn, Wilsden  
-**January 2025** - Grayston Unity, Halifax  
 
 <!-- Service section end -->
