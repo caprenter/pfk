@@ -107,6 +107,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
   
 **7 February 2026** - New Inn, Wilsden  
 **7 March 2026** - Groovy Happening, Haworth  
+**16 May 2026** - Sanctum Bar, Castleford  
 **14 November 2026** - Private Party  
 **12 December 2026** - Private Party  
 
