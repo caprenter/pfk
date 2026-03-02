@@ -74,21 +74,21 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/new-inn-wilsden.jpg" alt="New Inn" />
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Sanctum.jpg" alt="Sanctum Bar" />
 					</div>
-					<h3>New Inn</h3>
-					<h4>7 February 2026</h4>
-					<p>Wilsden</p>
+					<h3>Sanctum Bar</h3>
+					<h4>16 May 2026</h4>
+					<p>Castleford</p>
 				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/GH Logo.jpg" alt="Groovy Happening" />
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Bandstand.jpg" alt="Myrtle Park Bandstand" />
 					</div>
-					<h3>Groovy Happening</h3>
-					<h4>7 March 2026</h4>
-					<p>Haworth</p>
+					<h3>Myrtle Park</h3>
+					<h4>18 July 2026</h4>
+					<p>Bingley</p>
 				</div> 
 			</div>
 			<div class="span4">
@@ -104,10 +104,9 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-  
-**7 February 2026** - New Inn, Wilsden  
-**7 March 2026** - Groovy Happening, Haworth  
 **16 May 2026** - Sanctum Bar, Castleford  
+**18 July 2026** - Myrtle Park Bandstand, Bingley  
+**21 August 2026** - Ring O Bells, Thornton  
 **14 November 2026** - Private Party  
 **12 December 2026** - Private Party  
 
