@@ -107,8 +107,10 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **16 May 2026** - Sanctum Bar, Castleford  
 **18 July 2026** - Myrtle Park Bandstand, Bingley  
 **21 August 2026** - Ring O Bells, Thornton  
+**10 October 2026** - Grim Up North, Brighouse  
 **14 November 2026** - Private Party  
 **12 December 2026** - Private Party  
+**21 August 2027** - Wedding!  
 
 ### Recent Gigs
 **January 2026** - Speakeasy, Skipton  
