@@ -84,27 +84,28 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Bandstand.jpg" alt="Myrtle Park Bandstand" />
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Scouts.jpg" alt="Scouts" />
 					</div>
-					<h3>Myrtle Park</h3>
-					<h4>18 July 2026</h4>
+					<h3>Blackhills</h3>
+					<h4>6 June 2026</h4>
 					<p>Bingley</p>
 				</div> 
 			</div>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/Availableforbookings.png" alt="Available" />
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Bandstand.jpg" alt="Myrtle Park Bandstand" />
 					</div>
-					<h3>Book us</h3>
-					<h4>2026</h4>
-					<p>Somewhere</p>
+					<h3>Myrtle Park</h3>
+					<h4>18 July 2026</h4>
+					<p>Bingley</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
 **16 May 2026** - Sanctum Bar, Castleford  
+**6 June 2026** - Blackhills, Bingley  
 **18 July 2026** - Myrtle Park Bandstand, Bingley  
 **21 August 2026** - Ring O Bells, Thornton  
 **10 October 2026** - Grim Up North, Brighouse  
