@@ -74,22 +74,12 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Sanctum.jpg" alt="Sanctum Bar" />
-					</div>
-					<h3>Sanctum Bar</h3>
-					<h4>16 May 2026</h4>
-					<p>Castleford</p>
-				</div>
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
 					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Scouts.jpg" alt="Scouts" />
 					</div>
 					<h3>Blackhills</h3>
 					<h4>6 June 2026</h4>
 					<p>Bingley</p>
-				</div> 
+				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
@@ -99,12 +89,21 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					<h3>Myrtle Park</h3>
 					<h4>18 July 2026</h4>
 					<p>Bingley</p>
+				</div> 
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/RingOBells.jpg" alt="Ring O Bells" />
+					</div>
+					<h3>Ring O Bells</h3>
+					<h4>21 August 2026</h4>
+					<p>Thornton</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**16 May 2026** - Sanctum Bar, Castleford  
 **6 June 2026** - Blackhills, Bingley  
 **18 July 2026** - Myrtle Park Bandstand, Bingley  
 **21 August 2026** - Ring O Bells, Thornton  
@@ -114,13 +113,11 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **21 August 2027** - Wedding!  
 
 ### Recent Gigs
+**May 2026** - Sanctum Bar, Castleford  
 **January 2026** - Speakeasy, Skipton  
 **November 2025** - Highfield Hotel, Bradford  
 **October 2025** - Black Horse, Otley  
 **August 2025** - Myrtle Park Bandstand, Bingley **&amp;**  Highfield Hotel, Idle **&amp;**  The Beacon, Lister Park    
 **July 2025** - The Beacon, Cliffe Castle, Keighley  
-**May 2025** - Ryshworth Club, Crossflatts **&amp;** Jam Shack, Piece Hall, Halifax  
-**April 2025** - Groovy Happening, Haworth  
-**March 2025** - Engine Room, Bingley **&amp;** New Inn, Wilsden  
 
 <!-- Service section end -->
