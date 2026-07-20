@@ -74,22 +74,12 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Bandstand.jpg" alt="Myrtle Park Bandstand" />
-					</div>
-					<h3>Myrtle Park</h3>
-					<h4>18 July 2026</h4>
-					<p>Bingley</p>
-				</div>
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
 					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/RingOBells.jpg" alt="Ring O Bells" />
 					</div>
 					<h3>Ring O Bells</h3>
 					<h4>21 August 2026</h4>
 					<p>Thornton</p>
-				</div> 
+				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
@@ -99,12 +89,21 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					<h3>Bradley Wood</h3>
 					<h4>10 October 2026</h4>
 					<p>Brighouse</p>
+				</div> 
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/PFK30.jpg" alt="PFK" />
+					</div>
+					<h3>Private Party</h3>
+					<h4>14 November 2026</h4>
+					<p>Skipton</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**18 July 2026** - Myrtle Park Bandstand, Bingley  
 **21 August 2026** - Ring O Bells, Thornton  
 **10 October 2026** - Grim Up North, Brighouse  
 **14 November 2026** - Private Party  
@@ -113,12 +112,12 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **21 August 2027** - Wedding!  
 
 ### Recent Gigs
+**July 2026** - Myrtle Park Bandstand, Bingley  
 **June 2026** - Blackhills, Bingley  
 **May 2026** - Sanctum Bar, Castleford  
 **January 2026** - Speakeasy, Skipton  
 **November 2025** - Highfield Hotel, Bradford  
 **October 2025** - Black Horse, Otley  
 **August 2025** - Myrtle Park Bandstand, Bingley **&amp;**  Highfield Hotel, Idle **&amp;**  The Beacon, Lister Park    
-**July 2025** - The Beacon, Cliffe Castle, Keighley  
 
 <!-- Service section end -->
