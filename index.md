@@ -74,22 +74,12 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Scouts.jpg" alt="Scouts" />
-					</div>
-					<h3>Bradley Wood</h3>
-					<h4>10 October 2026</h4>
-					<p>Brighouse</p>
-				</div>
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
 					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/PFK30.jpg" alt="PFK" />
 					</div>
 					<h3>Private Party</h3>
 					<h4>14 November 2026</h4>
 					<p>Skipton</p>
-				</div> 
+				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
@@ -99,6 +89,16 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					<h3>Private Party</h3>
 					<h4>12 December 2026</h4>
 					<p>Halifax</p>
+				</div> 
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/GH Logo.jpg" alt="GH" />
+					</div>
+					<h3>Groovy Happening</h3>
+					<h4>6 February 2027</h4>
+					<p>Haworth</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
