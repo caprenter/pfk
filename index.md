@@ -104,10 +104,10 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**10 October 2026** - Grim Up North, Brighouse  
 **14 November 2026** - Private Party  
 **12 December 2026** - Private Party  
 **6 February 2027** - Groovy Happening, Haworth  
+**3 July 2027** - Airedale fund raiser  
 **21 August 2027** - Wedding!  
 
 ### Recent Gigs
@@ -117,6 +117,5 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **May 2026** - Sanctum Bar, Castleford  
 **January 2026** - Speakeasy, Skipton  
 **November 2025** - Highfield Hotel, Bradford  
-**October 2025** - Black Horse, Otley  
 
 <!-- Service section end -->
