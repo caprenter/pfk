@@ -77,19 +77,9 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/PFK30.jpg" alt="PFK" />
 					</div>
 					<h3>Private Party</h3>
-					<h4>14 November 2026</h4>
-					<p>Skipton</p>
-				</div>
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
-					<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/PFK30.jpg" alt="PFK" />
-					</div>
-					<h3>Private Party</h3>
 					<h4>12 December 2026</h4>
 					<p>Halifax</p>
-				</div> 
+				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
@@ -99,23 +89,32 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					<h3>Groovy Happening</h3>
 					<h4>6 February 2027</h4>
 					<p>Haworth</p>
+				</div> 
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
+					<img class="img-circle" src="{{ site.baseurl }}/assets/images/Availableforbookings.png" alt="Available" />
+					</div>
+					<h3>Available</h3>
+					<h4>2027</h4>
+					<p>For Bookings</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**14 November 2026** - Private Party  
 **12 December 2026** - Private Party  
 **6 February 2027** - Groovy Happening, Haworth  
 **3 July 2027** - Airedale fund raiser  
 **21 August 2027** - Wedding!  
 
 ### Recent Gigs
+**November 2026** - Skipton Cricket Club  
 **August 2026** - Ring O Bells, Thornton  
 **July 2026** - Myrtle Park Bandstand, Bingley  
 **June 2026** - Blackhills, Bingley  
 **May 2026** - Sanctum Bar, Castleford  
 **January 2026** - Speakeasy, Skipton  
-**November 2025** - Highfield Hotel, Bradford  
 
 <!-- Service section end -->
